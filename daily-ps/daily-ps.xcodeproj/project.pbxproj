@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		4EFF0D00288539260093005B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFF0CFF288539260093005B /* main.swift */; };
+		4EFF0D08288539CF0093005B /* Baekjoon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFF0D07288539CF0093005B /* Baekjoon.swift */; };
+		4EFF0D0A288539E20093005B /* Baekjoon1012.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFF0D09288539E20093005B /* Baekjoon1012.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,8 @@
 /* Begin PBXFileReference section */
 		4EFF0CFC288539260093005B /* daily-ps */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "daily-ps"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EFF0CFF288539260093005B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		4EFF0D07288539CF0093005B /* Baekjoon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon.swift; sourceTree = "<group>"; };
+		4EFF0D09288539E20093005B /* Baekjoon1012.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1012.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +61,19 @@
 		4EFF0CFE288539260093005B /* daily-ps */ = {
 			isa = PBXGroup;
 			children = (
+				4EFF0D06288539AD0093005B /* Baekjoon */,
 				4EFF0CFF288539260093005B /* main.swift */,
 			);
 			path = "daily-ps";
+			sourceTree = "<group>";
+		};
+		4EFF0D06288539AD0093005B /* Baekjoon */ = {
+			isa = PBXGroup;
+			children = (
+				4EFF0D07288539CF0093005B /* Baekjoon.swift */,
+				4EFF0D09288539E20093005B /* Baekjoon1012.swift */,
+			);
+			path = Baekjoon;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -120,6 +134,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4EFF0D0A288539E20093005B /* Baekjoon1012.swift in Sources */,
+				4EFF0D08288539CF0093005B /* Baekjoon.swift in Sources */,
 				4EFF0D00288539260093005B /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
