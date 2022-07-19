@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		4EC804DD28866C9E00B27A9A /* Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC804DC28866C9E00B27A9A /* Permutation.swift */; };
 		4EC804DF28866CA600B27A9A /* Combination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC804DE28866CA600B27A9A /* Combination.swift */; };
+		4EC804E128866F3000B27A9A /* Baekjoon2309.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC804E028866F3000B27A9A /* Baekjoon2309.swift */; };
 		4EFF0D00288539260093005B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFF0CFF288539260093005B /* main.swift */; };
 		4EFF0D08288539CF0093005B /* Baekjoon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFF0D07288539CF0093005B /* Baekjoon.swift */; };
 		4EFF0D0A288539E20093005B /* Baekjoon1012.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFF0D09288539E20093005B /* Baekjoon1012.swift */; };
@@ -29,6 +30,7 @@
 /* Begin PBXFileReference section */
 		4EC804DC28866C9E00B27A9A /* Permutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Permutation.swift; sourceTree = "<group>"; };
 		4EC804DE28866CA600B27A9A /* Combination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Combination.swift; sourceTree = "<group>"; };
+		4EC804E028866F3000B27A9A /* Baekjoon2309.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon2309.swift; sourceTree = "<group>"; };
 		4EFF0CFC288539260093005B /* daily-ps */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "daily-ps"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EFF0CFF288539260093005B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		4EFF0D07288539CF0093005B /* Baekjoon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon.swift; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 			children = (
 				4EFF0D07288539CF0093005B /* Baekjoon.swift */,
 				4EFF0D09288539E20093005B /* Baekjoon1012.swift */,
+				4EC804E028866F3000B27A9A /* Baekjoon2309.swift */,
 			);
 			path = Baekjoon;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4EC804E128866F3000B27A9A /* Baekjoon2309.swift in Sources */,
 				4EC804DD28866C9E00B27A9A /* Permutation.swift in Sources */,
 				4EFF0D0A288539E20093005B /* Baekjoon1012.swift in Sources */,
 				4EFF0D08288539CF0093005B /* Baekjoon.swift in Sources */,
