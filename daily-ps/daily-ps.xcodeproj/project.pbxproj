@@ -19,6 +19,8 @@
 		4ED9A9EC2897F887005D0A7E /* Baekjoon1759.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED9A9EB2897F887005D0A7E /* Baekjoon1759.swift */; };
 		4ED9A9EE2898031C005D0A7E /* Baekjoon1149.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED9A9ED2898031C005D0A7E /* Baekjoon1149.swift */; };
 		4ED9A9F028981A3B005D0A7E /* Baekjoon10163.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED9A9EF28981A3B005D0A7E /* Baekjoon10163.swift */; };
+		4EFD09A8289A647B00D1E1C0 /* BestAlbum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFD09A7289A647B00D1E1C0 /* BestAlbum.swift */; };
+		4EFD09AA289A70DC00D1E1C0 /* Disguise.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFD09A9289A70DC00D1E1C0 /* Disguise.swift */; };
 		4EFF0D00288539260093005B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFF0CFF288539260093005B /* main.swift */; };
 		4EFF0D08288539CF0093005B /* Baekjoon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFF0D07288539CF0093005B /* Baekjoon.swift */; };
 		4EFF0D0A288539E20093005B /* Baekjoon1012.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFF0D09288539E20093005B /* Baekjoon1012.swift */; };
@@ -49,6 +51,8 @@
 		4ED9A9EB2897F887005D0A7E /* Baekjoon1759.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1759.swift; sourceTree = "<group>"; };
 		4ED9A9ED2898031C005D0A7E /* Baekjoon1149.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1149.swift; sourceTree = "<group>"; };
 		4ED9A9EF28981A3B005D0A7E /* Baekjoon10163.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon10163.swift; sourceTree = "<group>"; };
+		4EFD09A7289A647B00D1E1C0 /* BestAlbum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestAlbum.swift; sourceTree = "<group>"; };
+		4EFD09A9289A70DC00D1E1C0 /* Disguise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Disguise.swift; sourceTree = "<group>"; };
 		4EFF0CFC288539260093005B /* daily-ps */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "daily-ps"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EFF0CFF288539260093005B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		4EFF0D07288539CF0093005B /* Baekjoon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon.swift; sourceTree = "<group>"; };
@@ -66,6 +70,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4EFD09A6289A642E00D1E1C0 /* Programmers */ = {
+			isa = PBXGroup;
+			children = (
+				4EFD09A7289A647B00D1E1C0 /* BestAlbum.swift */,
+				4EFD09A9289A70DC00D1E1C0 /* Disguise.swift */,
+			);
+			path = Programmers;
+			sourceTree = "<group>";
+		};
 		4EFF0CF3288539260093005B = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +98,7 @@
 		4EFF0CFE288539260093005B /* daily-ps */ = {
 			isa = PBXGroup;
 			children = (
+				4EFD09A6289A642E00D1E1C0 /* Programmers */,
 				4EFF0D06288539AD0093005B /* Baekjoon */,
 				4EFF0CFF288539260093005B /* main.swift */,
 				4EC804DC28866C9E00B27A9A /* Permutation.swift */,
@@ -173,12 +187,14 @@
 				4EC804E128866F3000B27A9A /* Baekjoon2309.swift in Sources */,
 				4ED0E3162889B7AB00D704CD /* Baekjoon9095.swift in Sources */,
 				4ECC2B592888527600A9377A /* Baekjoon10974.swift in Sources */,
+				4EFD09AA289A70DC00D1E1C0 /* Disguise.swift in Sources */,
 				4ED9A9EE2898031C005D0A7E /* Baekjoon1149.swift in Sources */,
 				4ED9A9F028981A3B005D0A7E /* Baekjoon10163.swift in Sources */,
 				4EC804DD28866C9E00B27A9A /* Permutation.swift in Sources */,
 				4E447A03288AFCE3001D99A7 /* Baekjoon1182.swift in Sources */,
 				4EFF0D0A288539E20093005B /* Baekjoon1012.swift in Sources */,
 				4ECC2B5B28885FC000A9377A /* Baekjoon1463.swift in Sources */,
+				4EFD09A8289A647B00D1E1C0 /* BestAlbum.swift in Sources */,
 				4EFF0D08288539CF0093005B /* Baekjoon.swift in Sources */,
 				4EC21E0128904B390043B225 /* Baekjoon2578.swift in Sources */,
 				4EFF0D00288539260093005B /* main.swift in Sources */,
