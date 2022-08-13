@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4E447A03288AFCE3001D99A7 /* Baekjoon1182.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E447A02288AFCE3001D99A7 /* Baekjoon1182.swift */; };
+		4EB5EFEF28A637C8002A39B1 /* DividingPowerGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB5EFEE28A637C8002A39B1 /* DividingPowerGrid.swift */; };
 		4EB7B72128A36266008035BC /* HIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB7B72028A36266008035BC /* HIndex.swift */; };
 		4EB7B72328A36A2A008035BC /* MinimalRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB7B72228A36A2A008035BC /* MinimalRectangle.swift */; };
 		4EBB1E7D289BC9EF009FBDEF /* KthNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EBB1E7C289BC9EF009FBDEF /* KthNumber.swift */; };
@@ -50,6 +51,7 @@
 
 /* Begin PBXFileReference section */
 		4E447A02288AFCE3001D99A7 /* Baekjoon1182.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1182.swift; sourceTree = "<group>"; };
+		4EB5EFEE28A637C8002A39B1 /* DividingPowerGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DividingPowerGrid.swift; sourceTree = "<group>"; };
 		4EB7B72028A36266008035BC /* HIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HIndex.swift; sourceTree = "<group>"; };
 		4EB7B72228A36A2A008035BC /* MinimalRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimalRectangle.swift; sourceTree = "<group>"; };
 		4EBB1E7C289BC9EF009FBDEF /* KthNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthNumber.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				4EB7B72228A36A2A008035BC /* MinimalRectangle.swift */,
 				4EC1C6B628A4387A00E3A955 /* FindingPrimeNumber.swift */,
 				4EC1C6B828A4419800E3A955 /* MockExam.swift */,
+				4EB5EFEE28A637C8002A39B1 /* DividingPowerGrid.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 				4EFF0D0A288539E20093005B /* Baekjoon1012.swift in Sources */,
 				4ECC2B5B28885FC000A9377A /* Baekjoon1463.swift in Sources */,
 				4EC2C20D289F9A47007F60C0 /* Baekjoon1941.swift in Sources */,
+				4EB5EFEF28A637C8002A39B1 /* DividingPowerGrid.swift in Sources */,
 				4EFD09A8289A647B00D1E1C0 /* BestAlbum.swift in Sources */,
 				4EFF0D08288539CF0093005B /* Baekjoon.swift in Sources */,
 				4EC21E0128904B390043B225 /* Baekjoon2578.swift in Sources */,
