@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4E447A03288AFCE3001D99A7 /* Baekjoon1182.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E447A02288AFCE3001D99A7 /* Baekjoon1182.swift */; };
+		4E6A6AB528A794E5003CA875 /* Baekjoon1339.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E6A6AB428A794E5003CA875 /* Baekjoon1339.swift */; };
 		4EAEAD2128AA030100D8A5E2 /* VowelsDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAEAD2028AA030100D8A5E2 /* VowelsDictionary.swift */; };
 		4EAEAD2328AA097F00D8A5E2 /* Carpet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAEAD2228AA097F00D8A5E2 /* Carpet.swift */; };
 		4EB5EFEF28A637C8002A39B1 /* DividingPowerGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB5EFEE28A637C8002A39B1 /* DividingPowerGrid.swift */; };
@@ -53,6 +54,7 @@
 
 /* Begin PBXFileReference section */
 		4E447A02288AFCE3001D99A7 /* Baekjoon1182.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1182.swift; sourceTree = "<group>"; };
+		4E6A6AB428A794E5003CA875 /* Baekjoon1339.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1339.swift; sourceTree = "<group>"; };
 		4EAEAD2028AA030100D8A5E2 /* VowelsDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VowelsDictionary.swift; sourceTree = "<group>"; };
 		4EAEAD2228AA097F00D8A5E2 /* Carpet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Carpet.swift; sourceTree = "<group>"; };
 		4EB5EFEE28A637C8002A39B1 /* DividingPowerGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DividingPowerGrid.swift; sourceTree = "<group>"; };
@@ -161,6 +163,7 @@
 				4ED9A9EF28981A3B005D0A7E /* Baekjoon10163.swift */,
 				4EC2C20A289F896A007F60C0 /* Baekjoon2003.swift */,
 				4EC2C20C289F9A47007F60C0 /* Baekjoon1941.swift */,
+				4E6A6AB428A794E5003CA875 /* Baekjoon1339.swift */,
 			);
 			path = Baekjoon;
 			sourceTree = "<group>";
@@ -226,6 +229,7 @@
 				4EC804E128866F3000B27A9A /* Baekjoon2309.swift in Sources */,
 				4EC3E9AE289D02B600BA8384 /* TargetNumber.swift in Sources */,
 				4EAEAD2128AA030100D8A5E2 /* VowelsDictionary.swift in Sources */,
+				4E6A6AB528A794E5003CA875 /* Baekjoon1339.swift in Sources */,
 				4ED0E3162889B7AB00D704CD /* Baekjoon9095.swift in Sources */,
 				4ECC2B592888527600A9377A /* Baekjoon10974.swift in Sources */,
 				4EFD09AA289A70DC00D1E1C0 /* Disguise.swift in Sources */,
