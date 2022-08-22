@@ -43,6 +43,8 @@
 		4EC793E228B3952400EA0518 /* Baekjoon2884.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC793E128B3952400EA0518 /* Baekjoon2884.swift */; };
 		4EC793E428B3988600EA0518 /* Baekjoon2525.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC793E328B3988600EA0518 /* Baekjoon2525.swift */; };
 		4EC793E628B39AAE00EA0518 /* Baekjoon2480.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC793E528B39AAE00EA0518 /* Baekjoon2480.swift */; };
+		4EC793E828B3A0BE00EA0518 /* CorrectParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC793E728B3A0BE00EA0518 /* CorrectParentheses.swift */; };
+		4EC793ED28B3AF9200EA0518 /* DevelopingFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC793EC28B3AF9200EA0518 /* DevelopingFunction.swift */; };
 		4EC804DD28866C9E00B27A9A /* Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC804DC28866C9E00B27A9A /* Permutation.swift */; };
 		4EC804DF28866CA600B27A9A /* Combination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC804DE28866CA600B27A9A /* Combination.swift */; };
 		4EC804E128866F3000B27A9A /* Baekjoon2309.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC804E028866F3000B27A9A /* Baekjoon2309.swift */; };
@@ -111,6 +113,8 @@
 		4EC793E128B3952400EA0518 /* Baekjoon2884.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon2884.swift; sourceTree = "<group>"; };
 		4EC793E328B3988600EA0518 /* Baekjoon2525.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon2525.swift; sourceTree = "<group>"; };
 		4EC793E528B39AAE00EA0518 /* Baekjoon2480.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon2480.swift; sourceTree = "<group>"; };
+		4EC793E728B3A0BE00EA0518 /* CorrectParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CorrectParentheses.swift; sourceTree = "<group>"; };
+		4EC793EC28B3AF9200EA0518 /* DevelopingFunction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevelopingFunction.swift; sourceTree = "<group>"; };
 		4EC804DC28866C9E00B27A9A /* Permutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Permutation.swift; sourceTree = "<group>"; };
 		4EC804DE28866CA600B27A9A /* Combination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Combination.swift; sourceTree = "<group>"; };
 		4EC804E028866F3000B27A9A /* Baekjoon2309.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon2309.swift; sourceTree = "<group>"; };
@@ -193,6 +197,8 @@
 				4ECFA6F328AD3D9100A3BDC4 /* FatigueLevel.swift */,
 				4ECFA6F528AD47B700A3BDC4 /* TravelRoute.swift */,
 				4ECC7C8228ADD63C004F7500 /* Network.swift */,
+				4EC793E728B3A0BE00EA0518 /* CorrectParentheses.swift */,
+				4EC793EC28B3AF9200EA0518 /* DevelopingFunction.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -343,6 +349,7 @@
 				4EC2C20D289F9A47007F60C0 /* Baekjoon1941.swift in Sources */,
 				4EC793CF28B388EA00EA0518 /* Baekjoon2588.swift in Sources */,
 				4EC793D528B38B8F00EA0518 /* Baekjoon25083.swift in Sources */,
+				4EC793E828B3A0BE00EA0518 /* CorrectParentheses.swift in Sources */,
 				4ECFA6F428AD3D9100A3BDC4 /* FatigueLevel.swift in Sources */,
 				4EC793C728B3858900EA0518 /* Baekjoon10869.swift in Sources */,
 				4EB5EFEF28A637C8002A39B1 /* DividingPowerGrid.swift in Sources */,
@@ -356,6 +363,7 @@
 				4EFF0D00288539260093005B /* main.swift in Sources */,
 				4EBB1E7F289BCC9E009FBDEF /* BiggestNumber.swift in Sources */,
 				4EC804DF28866CA600B27A9A /* Combination.swift in Sources */,
+				4EC793ED28B3AF9200EA0518 /* DevelopingFunction.swift in Sources */,
 				4EC21E03289050170043B225 /* Baekjoon2564.swift in Sources */,
 				4EC793C528B3851A00EA0518 /* Baekjoon1008.swift in Sources */,
 				4ED9A9EC2897F887005D0A7E /* Baekjoon1759.swift in Sources */,
