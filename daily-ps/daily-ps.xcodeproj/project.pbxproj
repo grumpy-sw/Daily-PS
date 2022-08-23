@@ -26,6 +26,12 @@
 		4EC2C20D289F9A47007F60C0 /* Baekjoon1941.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC2C20C289F9A47007F60C0 /* Baekjoon1941.swift */; };
 		4EC3E9AE289D02B600BA8384 /* TargetNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC3E9AD289D02B600BA8384 /* TargetNumber.swift */; };
 		4EC3E9B0289D04EB00BA8384 /* WordConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC3E9AF289D04EB00BA8384 /* WordConversion.swift */; };
+		4EC6307128B4B8A20084EB47 /* Baekjoon10818.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6307028B4B8A20084EB47 /* Baekjoon10818.swift */; };
+		4EC6307328B4BD110084EB47 /* Baekjoon2562.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6307228B4BD110084EB47 /* Baekjoon2562.swift */; };
+		4EC6307528B4BEC10084EB47 /* Baekjoon3052.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6307428B4BEC10084EB47 /* Baekjoon3052.swift */; };
+		4EC6307728B4BFE70084EB47 /* Baekjoon1546.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6307628B4BFE70084EB47 /* Baekjoon1546.swift */; };
+		4EC6307928B4C1B50084EB47 /* Baekjoon8958.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6307828B4C1B50084EB47 /* Baekjoon8958.swift */; };
+		4EC6307B28B4CA260084EB47 /* Baekjoon4344.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6307A28B4CA260084EB47 /* Baekjoon4344.swift */; };
 		4EC793C328B3848300EA0518 /* Baekjoon10998.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC793C228B3848300EA0518 /* Baekjoon10998.swift */; };
 		4EC793C528B3851A00EA0518 /* Baekjoon1008.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC793C428B3851A00EA0518 /* Baekjoon1008.swift */; };
 		4EC793C728B3858900EA0518 /* Baekjoon10869.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC793C628B3858900EA0518 /* Baekjoon10869.swift */; };
@@ -109,6 +115,12 @@
 		4EC2C20C289F9A47007F60C0 /* Baekjoon1941.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1941.swift; sourceTree = "<group>"; };
 		4EC3E9AD289D02B600BA8384 /* TargetNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TargetNumber.swift; sourceTree = "<group>"; };
 		4EC3E9AF289D04EB00BA8384 /* WordConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordConversion.swift; sourceTree = "<group>"; };
+		4EC6307028B4B8A20084EB47 /* Baekjoon10818.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon10818.swift; sourceTree = "<group>"; };
+		4EC6307228B4BD110084EB47 /* Baekjoon2562.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon2562.swift; sourceTree = "<group>"; };
+		4EC6307428B4BEC10084EB47 /* Baekjoon3052.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon3052.swift; sourceTree = "<group>"; };
+		4EC6307628B4BFE70084EB47 /* Baekjoon1546.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1546.swift; sourceTree = "<group>"; };
+		4EC6307828B4C1B50084EB47 /* Baekjoon8958.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon8958.swift; sourceTree = "<group>"; };
+		4EC6307A28B4CA260084EB47 /* Baekjoon4344.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon4344.swift; sourceTree = "<group>"; };
 		4EC793C228B3848300EA0518 /* Baekjoon10998.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon10998.swift; sourceTree = "<group>"; };
 		4EC793C428B3851A00EA0518 /* Baekjoon1008.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1008.swift; sourceTree = "<group>"; };
 		4EC793C628B3858900EA0518 /* Baekjoon10869.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon10869.swift; sourceTree = "<group>"; };
@@ -172,6 +184,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4EC6306F28B4B8050084EB47 /* StepByStep-Array */ = {
+			isa = PBXGroup;
+			children = (
+				4EC6307028B4B8A20084EB47 /* Baekjoon10818.swift */,
+				4EC6307228B4BD110084EB47 /* Baekjoon2562.swift */,
+				4EC6307428B4BEC10084EB47 /* Baekjoon3052.swift */,
+				4EC6307628B4BFE70084EB47 /* Baekjoon1546.swift */,
+				4EC6307828B4C1B50084EB47 /* Baekjoon8958.swift */,
+				4EC6307A28B4CA260084EB47 /* Baekjoon4344.swift */,
+			);
+			path = "StepByStep-Array";
+			sourceTree = "<group>";
+		};
 		4EC793D728B38C9D00EA0518 /* StepByStep-IOandArithmetics */ = {
 			isa = PBXGroup;
 			children = (
@@ -280,6 +305,7 @@
 		4EFF0D06288539AD0093005B /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				4EC6306F28B4B8050084EB47 /* StepByStep-Array */,
 				4EEB7BC428B3D8E100188D1C /* StepByStep-Repetitives */,
 				4EC793D828B38DBB00EA0518 /* StepByStep-Conditionals */,
 				4EC793D728B38C9D00EA0518 /* StepByStep-IOandArithmetics */,
@@ -398,6 +424,8 @@
 				4EC793C928B3861600EA0518 /* Baekjoon10926.swift in Sources */,
 				4EFF0D0A288539E20093005B /* Baekjoon1012.swift in Sources */,
 				4ECC2B5B28885FC000A9377A /* Baekjoon1463.swift in Sources */,
+				4EC6307928B4C1B50084EB47 /* Baekjoon8958.swift in Sources */,
+				4EC6307328B4BD110084EB47 /* Baekjoon2562.swift in Sources */,
 				4EEB7BDC28B3F87800188D1C /* Baekjoon10951.swift in Sources */,
 				4EC2C20D289F9A47007F60C0 /* Baekjoon1941.swift in Sources */,
 				4EC793CF28B388EA00EA0518 /* Baekjoon2588.swift in Sources */,
@@ -407,9 +435,12 @@
 				4ECFA6F428AD3D9100A3BDC4 /* FatigueLevel.swift in Sources */,
 				4EC793C728B3858900EA0518 /* Baekjoon10869.swift in Sources */,
 				4EB5EFEF28A637C8002A39B1 /* DividingPowerGrid.swift in Sources */,
+				4EC6307528B4BEC10084EB47 /* Baekjoon3052.swift in Sources */,
 				4EFD09A8289A647B00D1E1C0 /* BestAlbum.swift in Sources */,
 				4EEB7BCA28B3DC2800188D1C /* Baekjoon8393.swift in Sources */,
+				4EC6307728B4BFE70084EB47 /* Baekjoon1546.swift in Sources */,
 				4ECC7C8328ADD63C004F7500 /* Network.swift in Sources */,
+				4EC6307128B4B8A20084EB47 /* Baekjoon10818.swift in Sources */,
 				4EEB7BD428B3F33500188D1C /* Baekjoon2438.swift in Sources */,
 				4EC793DE28B3905F00EA0518 /* Baekjoon2753.swift in Sources */,
 				4ECFA6F628AD47B700A3BDC4 /* TravelRoute.swift in Sources */,
@@ -420,6 +451,7 @@
 				4EFF0D00288539260093005B /* main.swift in Sources */,
 				4EEB7BD028B3F19E00188D1C /* Baekjoon11021.swift in Sources */,
 				4EBB1E7F289BCC9E009FBDEF /* BiggestNumber.swift in Sources */,
+				4EC6307B28B4CA260084EB47 /* Baekjoon4344.swift in Sources */,
 				4EC804DF28866CA600B27A9A /* Combination.swift in Sources */,
 				4EC793ED28B3AF9200EA0518 /* DevelopingFunction.swift in Sources */,
 				4EC21E03289050170043B225 /* Baekjoon2564.swift in Sources */,
