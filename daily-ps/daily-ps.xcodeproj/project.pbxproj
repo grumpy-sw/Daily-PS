@@ -92,6 +92,7 @@
 		4ED0BCB028CF094800B8E012 /* Baekjoon25501.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED0BCAF28CF094800B8E012 /* Baekjoon25501.swift */; };
 		4ED0BCB328CF136900B8E012 /* ParkingFeeCalculation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED0BCB228CF136900B8E012 /* ParkingFeeCalculation.swift */; };
 		4ED0E3162889B7AB00D704CD /* Baekjoon9095.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED0E3152889B7AB00D704CD /* Baekjoon9095.swift */; };
+		4ED15D0E28D00197006C26ED /* ArcheryCompetition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED15D0D28D00197006C26ED /* ArcheryCompetition.swift */; };
 		4ED9A9EC2897F887005D0A7E /* Baekjoon1759.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED9A9EB2897F887005D0A7E /* Baekjoon1759.swift */; };
 		4ED9A9EE2898031C005D0A7E /* Baekjoon1149.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED9A9ED2898031C005D0A7E /* Baekjoon1149.swift */; };
 		4ED9A9F028981A3B005D0A7E /* Baekjoon10163.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED9A9EF28981A3B005D0A7E /* Baekjoon10163.swift */; };
@@ -229,6 +230,7 @@
 		4ED0BCAF28CF094800B8E012 /* Baekjoon25501.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon25501.swift; sourceTree = "<group>"; };
 		4ED0BCB228CF136900B8E012 /* ParkingFeeCalculation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkingFeeCalculation.swift; sourceTree = "<group>"; };
 		4ED0E3152889B7AB00D704CD /* Baekjoon9095.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon9095.swift; sourceTree = "<group>"; };
+		4ED15D0D28D00197006C26ED /* ArcheryCompetition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArcheryCompetition.swift; sourceTree = "<group>"; };
 		4ED9A9EB2897F887005D0A7E /* Baekjoon1759.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1759.swift; sourceTree = "<group>"; };
 		4ED9A9ED2898031C005D0A7E /* Baekjoon1149.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1149.swift; sourceTree = "<group>"; };
 		4ED9A9EF28981A3B005D0A7E /* Baekjoon10163.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon10163.swift; sourceTree = "<group>"; };
@@ -386,6 +388,7 @@
 			children = (
 				4EDDE87328C7392F009618CB /* findPrimeInKsystem.swift */,
 				4ED0BCB228CF136900B8E012 /* ParkingFeeCalculation.swift */,
+				4ED15D0D28D00197006C26ED /* ArcheryCompetition.swift */,
 			);
 			path = "2022-KAKAO-BLIND-RECRUITMENT";
 			sourceTree = "<group>";
@@ -706,6 +709,7 @@
 				4EB4E73328C837FC00178CAB /* Baekjoon2750.swift in Sources */,
 				4EEB7BD628B3F3E600188D1C /* Baekjoon2439.swift in Sources */,
 				4EDDE86428C5D839009618CB /* Baekjoon17478.swift in Sources */,
+				4ED15D0E28D00197006C26ED /* ArcheryCompetition.swift in Sources */,
 				4EC793C528B3851A00EA0518 /* Baekjoon1008.swift in Sources */,
 				4ED9A9EC2897F887005D0A7E /* Baekjoon1759.swift in Sources */,
 				4EDDE85F28C5B94D009618CB /* Baekjoon4948.swift in Sources */,
