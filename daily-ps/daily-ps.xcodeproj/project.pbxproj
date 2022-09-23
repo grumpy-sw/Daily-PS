@@ -24,6 +24,7 @@
 		4EACC66A28DC0D5100E8A38E /* Friends4Block.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC66928DC0D5100E8A38E /* Friends4Block.swift */; };
 		4EACC67428DDA91600E8A38E /* IdRecommandation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC67328DDA91600E8A38E /* IdRecommandation.swift */; };
 		4EACC67628DDAFC500E8A38E /* MenuRenewal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC67528DDAFC500E8A38E /* MenuRenewal.swift */; };
+		4EACC67828DE221700E8A38E /* RankingSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC67728DE221700E8A38E /* RankingSearch.swift */; };
 		4EAEA8A728D659AF0095AF48 /* Baekjoon10816.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAEA8A628D659AF0095AF48 /* Baekjoon10816.swift */; };
 		4EAEAD2128AA030100D8A5E2 /* VowelsDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAEAD2028AA030100D8A5E2 /* VowelsDictionary.swift */; };
 		4EAEAD2328AA097F00D8A5E2 /* Carpet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAEAD2228AA097F00D8A5E2 /* Carpet.swift */; };
@@ -181,6 +182,7 @@
 		4EACC66928DC0D5100E8A38E /* Friends4Block.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friends4Block.swift; sourceTree = "<group>"; };
 		4EACC67328DDA91600E8A38E /* IdRecommandation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdRecommandation.swift; sourceTree = "<group>"; };
 		4EACC67528DDAFC500E8A38E /* MenuRenewal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuRenewal.swift; sourceTree = "<group>"; };
+		4EACC67728DE221700E8A38E /* RankingSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankingSearch.swift; sourceTree = "<group>"; };
 		4EAEA8A628D659AF0095AF48 /* Baekjoon10816.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon10816.swift; sourceTree = "<group>"; };
 		4EAEAD2028AA030100D8A5E2 /* VowelsDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VowelsDictionary.swift; sourceTree = "<group>"; };
 		4EAEAD2228AA097F00D8A5E2 /* Carpet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Carpet.swift; sourceTree = "<group>"; };
@@ -350,6 +352,7 @@
 			children = (
 				4EACC67328DDA91600E8A38E /* IdRecommandation.swift */,
 				4EACC67528DDAFC500E8A38E /* MenuRenewal.swift */,
+				4EACC67728DE221700E8A38E /* RankingSearch.swift */,
 			);
 			path = "2021-KAKAO-BLIND-RECRUITMENT";
 			sourceTree = "<group>";
@@ -893,6 +896,7 @@
 				4EA4DCE128BCA9FF008C25CB /* Baekjoon2908.swift in Sources */,
 				4EDDE87428C7392F009618CB /* findPrimeInKsystem.swift in Sources */,
 				4EFF0D08288539CF0093005B /* Baekjoon.swift in Sources */,
+				4EACC67828DE221700E8A38E /* RankingSearch.swift in Sources */,
 				4EC74D5B28D756AF000B045A /* Baekjoon1764.swift in Sources */,
 				4EC21E0128904B390043B225 /* Baekjoon2578.swift in Sources */,
 				4EDDE85928C5B073009618CB /* Barkjoon2581.swift in Sources */,
