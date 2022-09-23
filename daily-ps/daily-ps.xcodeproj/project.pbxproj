@@ -22,6 +22,7 @@
 		4EA73F0B28B72B5D0059AAE8 /* DiscController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA73F0A28B72B5D0059AAE8 /* DiscController.swift */; };
 		4EACC66828DC046500E8A38E /* SecretMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC66728DC046500E8A38E /* SecretMap.swift */; };
 		4EACC66A28DC0D5100E8A38E /* Friends4Block.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC66928DC0D5100E8A38E /* Friends4Block.swift */; };
+		4EACC67428DDA91600E8A38E /* IdRecommandation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC67328DDA91600E8A38E /* IdRecommandation.swift */; };
 		4EAEA8A728D659AF0095AF48 /* Baekjoon10816.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAEA8A628D659AF0095AF48 /* Baekjoon10816.swift */; };
 		4EAEAD2128AA030100D8A5E2 /* VowelsDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAEAD2028AA030100D8A5E2 /* VowelsDictionary.swift */; };
 		4EAEAD2328AA097F00D8A5E2 /* Carpet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAEAD2228AA097F00D8A5E2 /* Carpet.swift */; };
@@ -177,6 +178,7 @@
 		4EA73F0A28B72B5D0059AAE8 /* DiscController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscController.swift; sourceTree = "<group>"; };
 		4EACC66728DC046500E8A38E /* SecretMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecretMap.swift; sourceTree = "<group>"; };
 		4EACC66928DC0D5100E8A38E /* Friends4Block.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friends4Block.swift; sourceTree = "<group>"; };
+		4EACC67328DDA91600E8A38E /* IdRecommandation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdRecommandation.swift; sourceTree = "<group>"; };
 		4EAEA8A628D659AF0095AF48 /* Baekjoon10816.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon10816.swift; sourceTree = "<group>"; };
 		4EAEAD2028AA030100D8A5E2 /* VowelsDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VowelsDictionary.swift; sourceTree = "<group>"; };
 		4EAEAD2228AA097F00D8A5E2 /* Carpet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Carpet.swift; sourceTree = "<group>"; };
@@ -339,6 +341,14 @@
 				4EACC66928DC0D5100E8A38E /* Friends4Block.swift */,
 			);
 			path = "2018-KAKAO-BLIND-RECRUITMENT";
+			sourceTree = "<group>";
+		};
+		4EACC67228DDA8E500E8A38E /* 2021-KAKAO-BLIND-RECRUITMENT */ = {
+			isa = PBXGroup;
+			children = (
+				4EACC67328DDA91600E8A38E /* IdRecommandation.swift */,
+			);
+			path = "2021-KAKAO-BLIND-RECRUITMENT";
 			sourceTree = "<group>";
 		};
 		4EB2A69228DAC645004DE63D /* 2021-Dev-Matching */ = {
@@ -639,6 +649,7 @@
 		4EFD09A6289A642E00D1E1C0 /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				4EACC67228DDA8E500E8A38E /* 2021-KAKAO-BLIND-RECRUITMENT */,
 				4EACC66628DC043500E8A38E /* 2018-KAKAO-BLIND-RECRUITMENT */,
 				4EBF8B8E28D9A91700899EEB /* Practice-Kit */,
 				4ECF5BBD28D8C9BA003E52F6 /* 2022-KAKAO-TECH-INTERNSHIP */,
@@ -852,6 +863,7 @@
 				4ECFA6F428AD3D9100A3BDC4 /* FatigueLevel.swift in Sources */,
 				4EC793C728B3858900EA0518 /* Baekjoon10869.swift in Sources */,
 				4EB5EFEF28A637C8002A39B1 /* DividingPowerGrid.swift in Sources */,
+				4EACC67428DDA91600E8A38E /* IdRecommandation.swift in Sources */,
 				4ECF5BBF28D8CA3A003E52F6 /* Personality.swift in Sources */,
 				4EC6307528B4BEC10084EB47 /* Baekjoon3052.swift in Sources */,
 				4EFD09A8289A647B00D1E1C0 /* BestAlbum.swift in Sources */,
