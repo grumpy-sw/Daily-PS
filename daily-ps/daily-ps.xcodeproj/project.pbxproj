@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E1CAF2E28E31FDB0017F0EA /* StringCompression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1CAF2D28E31FDB0017F0EA /* StringCompression.swift */; };
 		4E447A03288AFCE3001D99A7 /* Baekjoon1182.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E447A02288AFCE3001D99A7 /* Baekjoon1182.swift */; };
 		4E6A6AB528A794E5003CA875 /* Baekjoon1339.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E6A6AB428A794E5003CA875 /* Baekjoon1339.swift */; };
 		4EA4DCD428BC3D61008C25CB /* DoublePriorityQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA4DCD328BC3D61008C25CB /* DoublePriorityQueue.swift */; };
@@ -165,6 +166,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4E1CAF2D28E31FDB0017F0EA /* StringCompression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCompression.swift; sourceTree = "<group>"; };
 		4E447A02288AFCE3001D99A7 /* Baekjoon1182.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1182.swift; sourceTree = "<group>"; };
 		4E6A6AB428A794E5003CA875 /* Baekjoon1339.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1339.swift; sourceTree = "<group>"; };
 		4EA4DCD328BC3D61008C25CB /* DoublePriorityQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoublePriorityQueue.swift; sourceTree = "<group>"; };
@@ -322,6 +324,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4E1CAF2C28E31EE60017F0EA /* 2020-KAKAO-BLIND-RECRUITMENT */ = {
+			isa = PBXGroup;
+			children = (
+				4E1CAF2D28E31FDB0017F0EA /* StringCompression.swift */,
+			);
+			path = "2020-KAKAO-BLIND-RECRUITMENT";
+			sourceTree = "<group>";
+		};
 		4EA4DCD528BC8F75008C25CB /* StepByStep-String */ = {
 			isa = PBXGroup;
 			children = (
@@ -655,6 +665,7 @@
 		4EFD09A6289A642E00D1E1C0 /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				4E1CAF2C28E31EE60017F0EA /* 2020-KAKAO-BLIND-RECRUITMENT */,
 				4EACC67228DDA8E500E8A38E /* 2021-KAKAO-BLIND-RECRUITMENT */,
 				4EACC66628DC043500E8A38E /* 2018-KAKAO-BLIND-RECRUITMENT */,
 				4EBF8B8E28D9A91700899EEB /* Practice-Kit */,
@@ -903,6 +914,7 @@
 				4EDDE87128C73251009618CB /* Baekjoon1436.swift in Sources */,
 				4EC6307E28B4D5C40084EB47 /* Baekjoon4673.swift in Sources */,
 				4EBD075E28C11D7F00EF21ED /* Baekjoon10250.swift in Sources */,
+				4E1CAF2E28E31FDB0017F0EA /* StringCompression.swift in Sources */,
 				4EFF0D00288539260093005B /* main.swift in Sources */,
 				4EA4DCD928BC90FF008C25CB /* Baekjoon11720.swift in Sources */,
 				4ECF5BC128D8DAF6003E52F6 /* TwoQueue.swift in Sources */,
