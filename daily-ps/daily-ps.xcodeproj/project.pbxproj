@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		4E1CAF2E28E31FDB0017F0EA /* StringCompression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1CAF2D28E31FDB0017F0EA /* StringCompression.swift */; };
 		4E1CAF3128E32C770017F0EA /* Baekjoon1085.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1CAF3028E32C770017F0EA /* Baekjoon1085.swift */; };
+		4E1CAF3328E32DE80017F0EA /* Baekjoon3009.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1CAF3228E32DE80017F0EA /* Baekjoon3009.swift */; };
 		4E447A03288AFCE3001D99A7 /* Baekjoon1182.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E447A02288AFCE3001D99A7 /* Baekjoon1182.swift */; };
 		4E6A6AB528A794E5003CA875 /* Baekjoon1339.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E6A6AB428A794E5003CA875 /* Baekjoon1339.swift */; };
 		4EA4DCD428BC3D61008C25CB /* DoublePriorityQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA4DCD328BC3D61008C25CB /* DoublePriorityQueue.swift */; };
@@ -169,6 +170,7 @@
 /* Begin PBXFileReference section */
 		4E1CAF2D28E31FDB0017F0EA /* StringCompression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCompression.swift; sourceTree = "<group>"; };
 		4E1CAF3028E32C770017F0EA /* Baekjoon1085.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1085.swift; sourceTree = "<group>"; };
+		4E1CAF3228E32DE80017F0EA /* Baekjoon3009.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon3009.swift; sourceTree = "<group>"; };
 		4E447A02288AFCE3001D99A7 /* Baekjoon1182.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1182.swift; sourceTree = "<group>"; };
 		4E6A6AB428A794E5003CA875 /* Baekjoon1339.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1339.swift; sourceTree = "<group>"; };
 		4EA4DCD328BC3D61008C25CB /* DoublePriorityQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoublePriorityQueue.swift; sourceTree = "<group>"; };
@@ -338,6 +340,7 @@
 			isa = PBXGroup;
 			children = (
 				4E1CAF3028E32C770017F0EA /* Baekjoon1085.swift */,
+				4E1CAF3228E32DE80017F0EA /* Baekjoon3009.swift */,
 			);
 			path = "StepByStep-Geometry1";
 			sourceTree = "<group>";
@@ -945,6 +948,7 @@
 				4EC793C528B3851A00EA0518 /* Baekjoon1008.swift in Sources */,
 				4ED9A9EC2897F887005D0A7E /* Baekjoon1759.swift in Sources */,
 				4EDDE85F28C5B94D009618CB /* Baekjoon4948.swift in Sources */,
+				4E1CAF3328E32DE80017F0EA /* Baekjoon3009.swift in Sources */,
 				4EC1C6B928A4419800E3A955 /* MockExam.swift in Sources */,
 				4ED0BCAE28CF05EC00B8E012 /* Baekjoon18870.swift in Sources */,
 				4EB4E73928C83E6B00178CAB /* Baekjoon2108.swift in Sources */,
