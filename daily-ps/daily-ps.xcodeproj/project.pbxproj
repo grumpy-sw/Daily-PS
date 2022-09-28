@@ -94,6 +94,7 @@
 		4EC793E628B39AAE00EA0518 /* Baekjoon2480.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC793E528B39AAE00EA0518 /* Baekjoon2480.swift */; };
 		4EC793E828B3A0BE00EA0518 /* CorrectParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC793E728B3A0BE00EA0518 /* CorrectParentheses.swift */; };
 		4EC793ED28B3AF9200EA0518 /* DevelopingFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC793EC28B3AF9200EA0518 /* DevelopingFunction.swift */; };
+		4EC7979328E3EB57000C936E /* Baekjoon4153.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC7979228E3EB57000C936E /* Baekjoon4153.swift */; };
 		4EC7979528E3ED52000C936E /* Baekjoon2477.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC7979428E3ED52000C936E /* Baekjoon2477.swift */; };
 		4EC804DD28866C9E00B27A9A /* Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC804DC28866C9E00B27A9A /* Permutation.swift */; };
 		4EC804DF28866CA600B27A9A /* Combination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC804DE28866CA600B27A9A /* Combination.swift */; };
@@ -256,6 +257,7 @@
 		4EC793E528B39AAE00EA0518 /* Baekjoon2480.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon2480.swift; sourceTree = "<group>"; };
 		4EC793E728B3A0BE00EA0518 /* CorrectParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CorrectParentheses.swift; sourceTree = "<group>"; };
 		4EC793EC28B3AF9200EA0518 /* DevelopingFunction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevelopingFunction.swift; sourceTree = "<group>"; };
+		4EC7979228E3EB57000C936E /* Baekjoon4153.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon4153.swift; sourceTree = "<group>"; };
 		4EC7979428E3ED52000C936E /* Baekjoon2477.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon2477.swift; sourceTree = "<group>"; };
 		4EC804DC28866C9E00B27A9A /* Permutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Permutation.swift; sourceTree = "<group>"; };
 		4EC804DE28866CA600B27A9A /* Combination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Combination.swift; sourceTree = "<group>"; };
@@ -343,6 +345,7 @@
 			children = (
 				4E1CAF3028E32C770017F0EA /* Baekjoon1085.swift */,
 				4E1CAF3228E32DE80017F0EA /* Baekjoon3009.swift */,
+				4EC7979228E3EB57000C936E /* Baekjoon4153.swift */,
 				4EC7979428E3ED52000C936E /* Baekjoon2477.swift */,
 			);
 			path = "StepByStep-Geometry1";
@@ -960,6 +963,7 @@
 				4ECF5BBC28D7ECC5003E52F6 /* DisappearingFoothold.swift in Sources */,
 				4EEB7BC828B3DA7C00188D1C /* Baekjoon10950.swift in Sources */,
 				4EDDE86628C5E055009618CB /* Baekjoon2447.swift in Sources */,
+				4EC7979328E3EB57000C936E /* Baekjoon4153.swift in Sources */,
 				4EDDE86F28C72872009618CB /* Baekjoon1018.swift in Sources */,
 				4EC1C6B728A4387A00E3A955 /* FindingPrimeNumber.swift in Sources */,
 			);
