@@ -24,6 +24,7 @@
 		4EA4DCE728BCC02A008C25CB /* Baekjoon1316.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA4DCE628BCC02A008C25CB /* Baekjoon1316.swift */; };
 		4EA73F0B28B72B5D0059AAE8 /* DiscController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA73F0A28B72B5D0059AAE8 /* DiscController.swift */; };
 		4EA891A428E55D26004E6D85 /* NewsClustering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA891A328E55D26004E6D85 /* NewsClustering.swift */; };
+		4EA891A728E58CFE004E6D85 /* NumberStringAndWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA891A628E58CFE004E6D85 /* NumberStringAndWord.swift */; };
 		4EACC66828DC046500E8A38E /* SecretMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC66728DC046500E8A38E /* SecretMap.swift */; };
 		4EACC66A28DC0D5100E8A38E /* Friends4Block.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC66928DC0D5100E8A38E /* Friends4Block.swift */; };
 		4EACC67428DDA91600E8A38E /* IdRecommandation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC67328DDA91600E8A38E /* IdRecommandation.swift */; };
@@ -192,6 +193,7 @@
 		4EA4DCE628BCC02A008C25CB /* Baekjoon1316.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1316.swift; sourceTree = "<group>"; };
 		4EA73F0A28B72B5D0059AAE8 /* DiscController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscController.swift; sourceTree = "<group>"; };
 		4EA891A328E55D26004E6D85 /* NewsClustering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsClustering.swift; sourceTree = "<group>"; };
+		4EA891A628E58CFE004E6D85 /* NumberStringAndWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberStringAndWord.swift; sourceTree = "<group>"; };
 		4EACC66728DC046500E8A38E /* SecretMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecretMap.swift; sourceTree = "<group>"; };
 		4EACC66928DC0D5100E8A38E /* Friends4Block.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friends4Block.swift; sourceTree = "<group>"; };
 		4EACC67328DDA91600E8A38E /* IdRecommandation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdRecommandation.swift; sourceTree = "<group>"; };
@@ -378,6 +380,14 @@
 				4EA4DCE628BCC02A008C25CB /* Baekjoon1316.swift */,
 			);
 			path = "StepByStep-String";
+			sourceTree = "<group>";
+		};
+		4EA891A528E58CD9004E6D85 /* 2021-KAKAO-INTERNSHIP */ = {
+			isa = PBXGroup;
+			children = (
+				4EA891A628E58CFE004E6D85 /* NumberStringAndWord.swift */,
+			);
+			path = "2021-KAKAO-INTERNSHIP";
 			sourceTree = "<group>";
 		};
 		4EACC66628DC043500E8A38E /* 2018-KAKAO-BLIND-RECRUITMENT */ = {
@@ -699,6 +709,7 @@
 		4EFD09A6289A642E00D1E1C0 /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				4EA891A528E58CD9004E6D85 /* 2021-KAKAO-INTERNSHIP */,
 				4E1CAF2C28E31EE60017F0EA /* 2020-KAKAO-BLIND-RECRUITMENT */,
 				4EACC67228DDA8E500E8A38E /* 2021-KAKAO-BLIND-RECRUITMENT */,
 				4EACC66628DC043500E8A38E /* 2018-KAKAO-BLIND-RECRUITMENT */,
@@ -976,6 +987,7 @@
 				4EC7979B28E3FB22000C936E /* ParenthesisConversion.swift in Sources */,
 				4EDDE85F28C5B94D009618CB /* Baekjoon4948.swift in Sources */,
 				4E1CAF3328E32DE80017F0EA /* Baekjoon3009.swift in Sources */,
+				4EA891A728E58CFE004E6D85 /* NumberStringAndWord.swift in Sources */,
 				4EC1C6B928A4419800E3A955 /* MockExam.swift in Sources */,
 				4ED0BCAE28CF05EC00B8E012 /* Baekjoon18870.swift in Sources */,
 				4EB4E73928C83E6B00178CAB /* Baekjoon2108.swift in Sources */,
