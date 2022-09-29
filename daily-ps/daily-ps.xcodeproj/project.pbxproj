@@ -23,6 +23,7 @@
 		4EA4DCE528BCB6B5008C25CB /* Baekjoon2941.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA4DCE428BCB6B5008C25CB /* Baekjoon2941.swift */; };
 		4EA4DCE728BCC02A008C25CB /* Baekjoon1316.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA4DCE628BCC02A008C25CB /* Baekjoon1316.swift */; };
 		4EA73F0B28B72B5D0059AAE8 /* DiscController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA73F0A28B72B5D0059AAE8 /* DiscController.swift */; };
+		4EA891A428E55D26004E6D85 /* NewsClustering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA891A328E55D26004E6D85 /* NewsClustering.swift */; };
 		4EACC66828DC046500E8A38E /* SecretMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC66728DC046500E8A38E /* SecretMap.swift */; };
 		4EACC66A28DC0D5100E8A38E /* Friends4Block.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC66928DC0D5100E8A38E /* Friends4Block.swift */; };
 		4EACC67428DDA91600E8A38E /* IdRecommandation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC67328DDA91600E8A38E /* IdRecommandation.swift */; };
@@ -190,6 +191,7 @@
 		4EA4DCE428BCB6B5008C25CB /* Baekjoon2941.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon2941.swift; sourceTree = "<group>"; };
 		4EA4DCE628BCC02A008C25CB /* Baekjoon1316.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1316.swift; sourceTree = "<group>"; };
 		4EA73F0A28B72B5D0059AAE8 /* DiscController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscController.swift; sourceTree = "<group>"; };
+		4EA891A328E55D26004E6D85 /* NewsClustering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsClustering.swift; sourceTree = "<group>"; };
 		4EACC66728DC046500E8A38E /* SecretMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecretMap.swift; sourceTree = "<group>"; };
 		4EACC66928DC0D5100E8A38E /* Friends4Block.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friends4Block.swift; sourceTree = "<group>"; };
 		4EACC67328DDA91600E8A38E /* IdRecommandation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdRecommandation.swift; sourceTree = "<group>"; };
@@ -384,6 +386,7 @@
 				4EACC66728DC046500E8A38E /* SecretMap.swift */,
 				4EACC66928DC0D5100E8A38E /* Friends4Block.swift */,
 				4EC797A228E4AA39000C936E /* Cache.swift */,
+				4EA891A328E55D26004E6D85 /* NewsClustering.swift */,
 			);
 			path = "2018-KAKAO-BLIND-RECRUITMENT";
 			sourceTree = "<group>";
@@ -947,6 +950,7 @@
 				4EACC67828DE221700E8A38E /* RankingSearch.swift in Sources */,
 				4EC74D5B28D756AF000B045A /* Baekjoon1764.swift in Sources */,
 				4EC21E0128904B390043B225 /* Baekjoon2578.swift in Sources */,
+				4EA891A428E55D26004E6D85 /* NewsClustering.swift in Sources */,
 				4EDDE85928C5B073009618CB /* Barkjoon2581.swift in Sources */,
 				4EDDE87128C73251009618CB /* Baekjoon1436.swift in Sources */,
 				4EC6307E28B4D5C40084EB47 /* Baekjoon4673.swift in Sources */,
