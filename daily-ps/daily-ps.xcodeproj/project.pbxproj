@@ -43,6 +43,14 @@
 		4EB4E73528C83A8500178CAB /* Baekjoon10989.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB4E73428C83A8500178CAB /* Baekjoon10989.swift */; };
 		4EB4E73728C83D9100178CAB /* Baekjoon25305.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB4E73628C83D9100178CAB /* Baekjoon25305.swift */; };
 		4EB4E73928C83E6B00178CAB /* Baekjoon2108.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB4E73828C83E6B00178CAB /* Baekjoon2108.swift */; };
+		4EB565B02903F4B8003CD81F /* AddMissingNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB565AF2903F4B8003CD81F /* AddMissingNumbers.swift */; };
+		4EB565B229040A10003CD81F /* InnerProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB565B129040A10003CD81F /* InnerProduct.swift */; };
+		4EB565B429040ADB003CD81F /* AdditionOfFactors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB565B329040ADB003CD81F /* AdditionOfFactors.swift */; };
+		4EB565B629041077003CD81F /* CalculateShortfall.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB565B529041077003CD81F /* CalculateShortfall.swift */; };
+		4EB565B829041233003CD81F /* TernaryFlip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB565B729041233003CD81F /* TernaryFlip.swift */; };
+		4EB565BA2904147A003CD81F /* ThreeMusketeers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB565B92904147A003CD81F /* ThreeMusketeers.swift */; };
+		4EB565BC29041709003CD81F /* TakeTwoAndAdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB565BB29041709003CD81F /* TakeTwoAndAdd.swift */; };
+		4EB565BE290419EB003CD81F /* ColaProblem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB565BD290419EB003CD81F /* ColaProblem.swift */; };
 		4EB5EFEF28A637C8002A39B1 /* DividingPowerGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB5EFEE28A637C8002A39B1 /* DividingPowerGrid.swift */; };
 		4EB7B72128A36266008035BC /* HIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB7B72028A36266008035BC /* HIndex.swift */; };
 		4EB7B72328A36A2A008035BC /* MinimalRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB7B72228A36A2A008035BC /* MinimalRectangle.swift */; };
@@ -223,6 +231,14 @@
 		4EB4E73428C83A8500178CAB /* Baekjoon10989.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon10989.swift; sourceTree = "<group>"; };
 		4EB4E73628C83D9100178CAB /* Baekjoon25305.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon25305.swift; sourceTree = "<group>"; };
 		4EB4E73828C83E6B00178CAB /* Baekjoon2108.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon2108.swift; sourceTree = "<group>"; };
+		4EB565AF2903F4B8003CD81F /* AddMissingNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddMissingNumbers.swift; sourceTree = "<group>"; };
+		4EB565B129040A10003CD81F /* InnerProduct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InnerProduct.swift; sourceTree = "<group>"; };
+		4EB565B329040ADB003CD81F /* AdditionOfFactors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdditionOfFactors.swift; sourceTree = "<group>"; };
+		4EB565B529041077003CD81F /* CalculateShortfall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculateShortfall.swift; sourceTree = "<group>"; };
+		4EB565B729041233003CD81F /* TernaryFlip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryFlip.swift; sourceTree = "<group>"; };
+		4EB565B92904147A003CD81F /* ThreeMusketeers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeMusketeers.swift; sourceTree = "<group>"; };
+		4EB565BB29041709003CD81F /* TakeTwoAndAdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TakeTwoAndAdd.swift; sourceTree = "<group>"; };
+		4EB565BD290419EB003CD81F /* ColaProblem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColaProblem.swift; sourceTree = "<group>"; };
 		4EB5EFEE28A637C8002A39B1 /* DividingPowerGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DividingPowerGrid.swift; sourceTree = "<group>"; };
 		4EB7B72028A36266008035BC /* HIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HIndex.swift; sourceTree = "<group>"; };
 		4EB7B72228A36A2A008035BC /* MinimalRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimalRectangle.swift; sourceTree = "<group>"; };
@@ -763,6 +779,14 @@
 				4EEFAA2D28FA89C6001494DB /* FindRemainIsOne.swift */,
 				4EEFAA2F28FA8AE0001494DB /* NumberPair.swift */,
 				4EEFAA3128FA8C36001494DB /* YinAndYang.swift */,
+				4EB565AF2903F4B8003CD81F /* AddMissingNumbers.swift */,
+				4EB565B129040A10003CD81F /* InnerProduct.swift */,
+				4EB565B329040ADB003CD81F /* AdditionOfFactors.swift */,
+				4EB565B529041077003CD81F /* CalculateShortfall.swift */,
+				4EB565B729041233003CD81F /* TernaryFlip.swift */,
+				4EB565B92904147A003CD81F /* ThreeMusketeers.swift */,
+				4EB565BB29041709003CD81F /* TakeTwoAndAdd.swift */,
+				4EB565BD290419EB003CD81F /* ColaProblem.swift */,
 			);
 			path = Level1;
 			sourceTree = "<group>";
@@ -934,6 +958,7 @@
 				4ECC2B592888527600A9377A /* Baekjoon10974.swift in Sources */,
 				4EC793CD28B3871800EA0518 /* Baekjoon3003.swift in Sources */,
 				4EC797A328E4AA39000C936E /* Cache.swift in Sources */,
+				4EB565B829041233003CD81F /* TernaryFlip.swift in Sources */,
 				4EB4E73528C83A8500178CAB /* Baekjoon10989.swift in Sources */,
 				4EBF8B8928D9971E00899EEB /* Baekjoon1620.swift in Sources */,
 				4EC793E028B3937D00EA0518 /* Baekjoon14681.swift in Sources */,
@@ -943,10 +968,12 @@
 				4EA4DCDF28BCA21D008C25CB /* Baekjoon1152.swift in Sources */,
 				4EEB7BD828B3F62900188D1C /* Baekjoon10871.swift in Sources */,
 				4ED9A9EE2898031C005D0A7E /* Baekjoon1149.swift in Sources */,
+				4EB565B429040ADB003CD81F /* AdditionOfFactors.swift in Sources */,
 				4EBF8B8B28D9998900899EEB /* Baekjoon1269.swift in Sources */,
 				4EBF8B8D28D9A33D00899EEB /* Baekjoon11478.swift in Sources */,
 				4EDDE86828C5E6E6009618CB /* Baekjoon11729.swift in Sources */,
 				4EC793DC28B38EDB00EA0518 /* Baekjoon9498.swift in Sources */,
+				4EB565B629041077003CD81F /* CalculateShortfall.swift in Sources */,
 				4EC1DB4928D41FB600ADC5D5 /* Baekjoon14425.swift in Sources */,
 				4ED9A9F028981A3B005D0A7E /* Baekjoon10163.swift in Sources */,
 				4EB7B72128A36266008035BC /* HIndex.swift in Sources */,
@@ -960,6 +987,7 @@
 				4E447A03288AFCE3001D99A7 /* Baekjoon1182.swift in Sources */,
 				4EC793D128B389F500EA0518 /* Baekjoon10171.swift in Sources */,
 				4EC793E228B3952400EA0518 /* Baekjoon2884.swift in Sources */,
+				4EB565B02903F4B8003CD81F /* AddMissingNumbers.swift in Sources */,
 				4EDDE85D28C5B760009618CB /* Baekjoon1929.swift in Sources */,
 				4ED15D1028D17BD4006C26ED /* UndestroyedBuilding.swift in Sources */,
 				4EAEAD2328AA097F00D8A5E2 /* Carpet.swift in Sources */,
@@ -969,11 +997,13 @@
 				4EC3E9B0289D04EB00BA8384 /* WordConversion.swift in Sources */,
 				4EC793E428B3988600EA0518 /* Baekjoon2525.swift in Sources */,
 				4EC793C328B3848300EA0518 /* Baekjoon10998.swift in Sources */,
+				4EB565BC29041709003CD81F /* TakeTwoAndAdd.swift in Sources */,
 				4EB7B72328A36A2A008035BC /* MinimalRectangle.swift in Sources */,
 				4EC30E9228E8150B003F6007 /* Baekjoon9663.swift in Sources */,
 				4EEB7BD228B3F29200188D1C /* Baekjoon11022.swift in Sources */,
 				4EBB1E7D289BC9EF009FBDEF /* KthNumber.swift in Sources */,
 				4EC2C20B289F896A007F60C0 /* Baekjoon2003.swift in Sources */,
+				4EB565B229040A10003CD81F /* InnerProduct.swift in Sources */,
 				4EC793C928B3861600EA0518 /* Baekjoon10926.swift in Sources */,
 				4EC7DDD528F68FCE006F15ED /* ThatSong.swift in Sources */,
 				4EFF0D0A288539E20093005B /* Baekjoon1012.swift in Sources */,
@@ -1003,6 +1033,7 @@
 				4EACC67428DDA91600E8A38E /* IdRecommandation.swift in Sources */,
 				4ECF5BBF28D8CA3A003E52F6 /* Personality.swift in Sources */,
 				4EC6307528B4BEC10084EB47 /* Baekjoon3052.swift in Sources */,
+				4EB565BE290419EB003CD81F /* ColaProblem.swift in Sources */,
 				4EFD09A8289A647B00D1E1C0 /* BestAlbum.swift in Sources */,
 				4EEB7BCA28B3DC2800188D1C /* Baekjoon8393.swift in Sources */,
 				4EC6307728B4BFE70084EB47 /* Baekjoon1546.swift in Sources */,
@@ -1019,6 +1050,7 @@
 				4EAEA8A728D659AF0095AF48 /* Baekjoon10816.swift in Sources */,
 				4ECFA6F628AD47B700A3BDC4 /* TravelRoute.swift in Sources */,
 				4ECA007228F53B9E00A02F0B /* Baekjoon24416.swift in Sources */,
+				4EB565BA2904147A003CD81F /* ThreeMusketeers.swift in Sources */,
 				4ED0BCA628CEFFD900B8E012 /* Baekjoon11650.swift in Sources */,
 				4ED0BCAC28CF03E800B8E012 /* Baekjoon10814.swift in Sources */,
 				4EACC66828DC046500E8A38E /* SecretMap.swift in Sources */,
