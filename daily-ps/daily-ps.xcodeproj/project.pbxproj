@@ -24,6 +24,7 @@
 		4EA4DCE328BCB301008C25CB /* Baekjoon5622.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA4DCE228BCB301008C25CB /* Baekjoon5622.swift */; };
 		4EA4DCE528BCB6B5008C25CB /* Baekjoon2941.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA4DCE428BCB6B5008C25CB /* Baekjoon2941.swift */; };
 		4EA4DCE728BCC02A008C25CB /* Baekjoon1316.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA4DCE628BCC02A008C25CB /* Baekjoon1316.swift */; };
+		4EA50661291A052E00EC758C /* VisitingLength.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA50660291A052E00EC758C /* VisitingLength.swift */; };
 		4EA73F0B28B72B5D0059AAE8 /* DiscController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA73F0A28B72B5D0059AAE8 /* DiscController.swift */; };
 		4EA891A428E55D26004E6D85 /* NewsClustering.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA891A328E55D26004E6D85 /* NewsClustering.swift */; };
 		4EA891A728E58CFE004E6D85 /* NumberStringAndWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA891A628E58CFE004E6D85 /* NumberStringAndWord.swift */; };
@@ -214,6 +215,7 @@
 		4EA4DCE228BCB301008C25CB /* Baekjoon5622.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon5622.swift; sourceTree = "<group>"; };
 		4EA4DCE428BCB6B5008C25CB /* Baekjoon2941.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon2941.swift; sourceTree = "<group>"; };
 		4EA4DCE628BCC02A008C25CB /* Baekjoon1316.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1316.swift; sourceTree = "<group>"; };
+		4EA50660291A052E00EC758C /* VisitingLength.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisitingLength.swift; sourceTree = "<group>"; };
 		4EA73F0A28B72B5D0059AAE8 /* DiscController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscController.swift; sourceTree = "<group>"; };
 		4EA891A328E55D26004E6D85 /* NewsClustering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsClustering.swift; sourceTree = "<group>"; };
 		4EA891A628E58CFE004E6D85 /* NumberStringAndWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberStringAndWord.swift; sourceTree = "<group>"; };
@@ -420,6 +422,7 @@
 			isa = PBXGroup;
 			children = (
 				4E9195402910BADD00AA769A /* Delivery.swift */,
+				4EA50660291A052E00EC758C /* VisitingLength.swift */,
 			);
 			path = "Summer-Winter-Coding";
 			sourceTree = "<group>";
@@ -814,6 +817,7 @@
 		4EFD09A6289A642E00D1E1C0 /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				4E91953F2910BACA00AA769A /* Summer-Winter-Coding */,
 				4E91953C2910B73100AA769A /* Level2 */,
 				4EEFAA2C28FA89B5001494DB /* Level1 */,
 				4ECA006D28F52CE700A02F0B /* 2019-KAKAO-INTERNSHIP */,
@@ -966,6 +970,7 @@
 				4EDA0D1A28B5EF76001411AA /* TrucksPassingTunnel.swift in Sources */,
 				4EBD075C28C114DF00EF21ED /* Baekjoon10757.swift in Sources */,
 				4ED15D5428D36F41006C26ED /* SheepsAndWolves.swift in Sources */,
+				4EA50661291A052E00EC758C /* VisitingLength.swift in Sources */,
 				4EEB7BDE28B3F97600188D1C /* Baekjoon1110.swift in Sources */,
 				4EEB7BCE28B3DDB500188D1C /* Baekjoon15552.swift in Sources */,
 				4EA4DCE328BCB301008C25CB /* Baekjoon5622.swift in Sources */,
