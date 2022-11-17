@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E0B82812926239700404584 /* NextNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0B82802926239700404584 /* NextNumber.swift */; };
 		4E1CAF2E28E31FDB0017F0EA /* StringCompression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1CAF2D28E31FDB0017F0EA /* StringCompression.swift */; };
 		4E1CAF3128E32C770017F0EA /* Baekjoon1085.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1CAF3028E32C770017F0EA /* Baekjoon1085.swift */; };
 		4E1CAF3328E32DE80017F0EA /* Baekjoon3009.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1CAF3228E32DE80017F0EA /* Baekjoon3009.swift */; };
@@ -201,6 +202,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4E0B82802926239700404584 /* NextNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextNumber.swift; sourceTree = "<group>"; };
 		4E1CAF2D28E31FDB0017F0EA /* StringCompression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCompression.swift; sourceTree = "<group>"; };
 		4E1CAF3028E32C770017F0EA /* Baekjoon1085.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1085.swift; sourceTree = "<group>"; };
 		4E1CAF3228E32DE80017F0EA /* Baekjoon3009.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon3009.swift; sourceTree = "<group>"; };
@@ -421,6 +423,7 @@
 			children = (
 				4E91953D2910B74500AA769A /* NQueen.swift */,
 				4E3A47AC2921F6580006D350 /* MakeMinimum.swift */,
+				4E0B82802926239700404584 /* NextNumber.swift */,
 			);
 			path = Level2;
 			sourceTree = "<group>";
@@ -1122,6 +1125,7 @@
 				4EC6307B28B4CA260084EB47 /* Baekjoon4344.swift in Sources */,
 				4EB4E73728C83D9100178CAB /* Baekjoon25305.swift in Sources */,
 				4EC804DF28866CA600B27A9A /* Combination.swift in Sources */,
+				4E0B82812926239700404584 /* NextNumber.swift in Sources */,
 				4EEE91092924D3E5004A30FA /* Baekjoon9012.swift in Sources */,
 				4EDDE86B28C71FA1009618CB /* Baekjoon2798.swift in Sources */,
 				4EC793ED28B3AF9200EA0518 /* DevelopingFunction.swift in Sources */,
