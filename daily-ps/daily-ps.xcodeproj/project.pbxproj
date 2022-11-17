@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4E0B82812926239700404584 /* NextNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0B82802926239700404584 /* NextNumber.swift */; };
+		4E0B82832926258B00404584 /* LongJump.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0B82822926258B00404584 /* LongJump.swift */; };
 		4E1CAF2E28E31FDB0017F0EA /* StringCompression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1CAF2D28E31FDB0017F0EA /* StringCompression.swift */; };
 		4E1CAF3128E32C770017F0EA /* Baekjoon1085.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1CAF3028E32C770017F0EA /* Baekjoon1085.swift */; };
 		4E1CAF3328E32DE80017F0EA /* Baekjoon3009.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1CAF3228E32DE80017F0EA /* Baekjoon3009.swift */; };
@@ -203,6 +204,7 @@
 
 /* Begin PBXFileReference section */
 		4E0B82802926239700404584 /* NextNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextNumber.swift; sourceTree = "<group>"; };
+		4E0B82822926258B00404584 /* LongJump.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongJump.swift; sourceTree = "<group>"; };
 		4E1CAF2D28E31FDB0017F0EA /* StringCompression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCompression.swift; sourceTree = "<group>"; };
 		4E1CAF3028E32C770017F0EA /* Baekjoon1085.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1085.swift; sourceTree = "<group>"; };
 		4E1CAF3228E32DE80017F0EA /* Baekjoon3009.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon3009.swift; sourceTree = "<group>"; };
@@ -424,6 +426,7 @@
 				4E91953D2910B74500AA769A /* NQueen.swift */,
 				4E3A47AC2921F6580006D350 /* MakeMinimum.swift */,
 				4E0B82802926239700404584 /* NextNumber.swift */,
+				4E0B82822926258B00404584 /* LongJump.swift */,
 			);
 			path = Level2;
 			sourceTree = "<group>";
@@ -1106,6 +1109,7 @@
 				4EFF0D08288539CF0093005B /* Baekjoon.swift in Sources */,
 				4EACC67828DE221700E8A38E /* RankingSearch.swift in Sources */,
 				4EC74D5B28D756AF000B045A /* Baekjoon1764.swift in Sources */,
+				4E0B82832926258B00404584 /* LongJump.swift in Sources */,
 				4EC21E0128904B390043B225 /* Baekjoon2578.swift in Sources */,
 				4EA891A428E55D26004E6D85 /* NewsClustering.swift in Sources */,
 				4EDDE85928C5B073009618CB /* Barkjoon2581.swift in Sources */,
