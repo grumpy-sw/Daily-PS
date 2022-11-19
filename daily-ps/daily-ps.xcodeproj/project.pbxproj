@@ -60,6 +60,7 @@
 		4EB5EFEF28A637C8002A39B1 /* DividingPowerGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB5EFEE28A637C8002A39B1 /* DividingPowerGrid.swift */; };
 		4EB7B72128A36266008035BC /* HIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB7B72028A36266008035BC /* HIndex.swift */; };
 		4EB7B72328A36A2A008035BC /* MinimalRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB7B72228A36A2A008035BC /* MinimalRectangle.swift */; };
+		4EB924B42928B057008A1E2A /* DiscountEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB924B32928B057008A1E2A /* DiscountEvent.swift */; };
 		4EBB1E7D289BC9EF009FBDEF /* KthNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EBB1E7C289BC9EF009FBDEF /* KthNumber.swift */; };
 		4EBB1E7F289BCC9E009FBDEF /* BiggestNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EBB1E7E289BCC9E009FBDEF /* BiggestNumber.swift */; };
 		4EBC9A5428B29A7400ECCE42 /* Baekjoon10430.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EBC9A5328B29A7400ECCE42 /* Baekjoon10430.swift */; };
@@ -256,6 +257,7 @@
 		4EB5EFEE28A637C8002A39B1 /* DividingPowerGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DividingPowerGrid.swift; sourceTree = "<group>"; };
 		4EB7B72028A36266008035BC /* HIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HIndex.swift; sourceTree = "<group>"; };
 		4EB7B72228A36A2A008035BC /* MinimalRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimalRectangle.swift; sourceTree = "<group>"; };
+		4EB924B32928B057008A1E2A /* DiscountEvent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscountEvent.swift; sourceTree = "<group>"; };
 		4EBB1E7C289BC9EF009FBDEF /* KthNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthNumber.swift; sourceTree = "<group>"; };
 		4EBB1E7E289BCC9E009FBDEF /* BiggestNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BiggestNumber.swift; sourceTree = "<group>"; };
 		4EBC9A5328B29A7400ECCE42 /* Baekjoon10430.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon10430.swift; sourceTree = "<group>"; };
@@ -427,6 +429,7 @@
 				4E3A47AC2921F6580006D350 /* MakeMinimum.swift */,
 				4E0B82802926239700404584 /* NextNumber.swift */,
 				4E0B82822926258B00404584 /* LongJump.swift */,
+				4EB924B32928B057008A1E2A /* DiscountEvent.swift */,
 			);
 			path = Level2;
 			sourceTree = "<group>";
@@ -1119,6 +1122,7 @@
 				4EC6307E28B4D5C40084EB47 /* Baekjoon4673.swift in Sources */,
 				4EBD075E28C11D7F00EF21ED /* Baekjoon10250.swift in Sources */,
 				4E1CAF2E28E31FDB0017F0EA /* StringCompression.swift in Sources */,
+				4EB924B42928B057008A1E2A /* DiscountEvent.swift in Sources */,
 				4EEFAA2E28FA89C6001494DB /* FindRemainIsOne.swift in Sources */,
 				4EFF0D00288539260093005B /* main.swift in Sources */,
 				4EA4DCD928BC90FF008C25CB /* Baekjoon11720.swift in Sources */,
