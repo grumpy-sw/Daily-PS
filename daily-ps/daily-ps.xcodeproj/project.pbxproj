@@ -14,6 +14,7 @@
 		4E1CAF3328E32DE80017F0EA /* Baekjoon3009.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1CAF3228E32DE80017F0EA /* Baekjoon3009.swift */; };
 		4E3A47AD2921F6580006D350 /* MakeMinimum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E3A47AC2921F6580006D350 /* MakeMinimum.swift */; };
 		4E447A03288AFCE3001D99A7 /* Baekjoon1182.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E447A02288AFCE3001D99A7 /* Baekjoon1182.swift */; };
+		4E46367F292E4D8800D68A15 /* MaximizeFormula.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E46367E292E4D8800D68A15 /* MaximizeFormula.swift */; };
 		4E6A6AB528A794E5003CA875 /* Baekjoon1339.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E6A6AB428A794E5003CA875 /* Baekjoon1339.swift */; };
 		4E91953E2910B74600AA769A /* NQueen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E91953D2910B74500AA769A /* NQueen.swift */; };
 		4E9195412910BADD00AA769A /* Delivery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9195402910BADD00AA769A /* Delivery.swift */; };
@@ -212,6 +213,7 @@
 		4E1CAF3228E32DE80017F0EA /* Baekjoon3009.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon3009.swift; sourceTree = "<group>"; };
 		4E3A47AC2921F6580006D350 /* MakeMinimum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeMinimum.swift; sourceTree = "<group>"; };
 		4E447A02288AFCE3001D99A7 /* Baekjoon1182.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1182.swift; sourceTree = "<group>"; };
+		4E46367E292E4D8800D68A15 /* MaximizeFormula.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximizeFormula.swift; sourceTree = "<group>"; };
 		4E6A6AB428A794E5003CA875 /* Baekjoon1339.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1339.swift; sourceTree = "<group>"; };
 		4E91953D2910B74500AA769A /* NQueen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NQueen.swift; sourceTree = "<group>"; };
 		4E9195402910BADD00AA769A /* Delivery.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Delivery.swift; sourceTree = "<group>"; };
@@ -422,6 +424,14 @@
 				4EC7979828E3F404000C936E /* Baekjoon1002.swift */,
 			);
 			path = "StepByStep-Geometry1";
+			sourceTree = "<group>";
+		};
+		4E46367D292E4D5400D68A15 /* 2020-KAKAO-INTERNSHIP */ = {
+			isa = PBXGroup;
+			children = (
+				4E46367E292E4D8800D68A15 /* MaximizeFormula.swift */,
+			);
+			path = "2020-KAKAO-INTERNSHIP";
 			sourceTree = "<group>";
 		};
 		4E91953C2910B73100AA769A /* Level2 */ = {
@@ -836,6 +846,7 @@
 		4EFD09A6289A642E00D1E1C0 /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				4E46367D292E4D5400D68A15 /* 2020-KAKAO-INTERNSHIP */,
 				4E91953F2910BACA00AA769A /* Summer-Winter-Coding */,
 				4E91953C2910B73100AA769A /* Level2 */,
 				4EEFAA2C28FA89B5001494DB /* Level1 */,
@@ -1048,6 +1059,7 @@
 				4EC3E9B0289D04EB00BA8384 /* WordConversion.swift in Sources */,
 				4EC793E428B3988600EA0518 /* Baekjoon2525.swift in Sources */,
 				4EC793C328B3848300EA0518 /* Baekjoon10998.swift in Sources */,
+				4E46367F292E4D8800D68A15 /* MaximizeFormula.swift in Sources */,
 				4EB565BC29041709003CD81F /* TakeTwoAndAdd.swift in Sources */,
 				4EB7B72328A36A2A008035BC /* MinimalRectangle.swift in Sources */,
 				4EC30E9228E8150B003F6007 /* Baekjoon9663.swift in Sources */,
