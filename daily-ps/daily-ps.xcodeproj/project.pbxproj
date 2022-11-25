@@ -170,6 +170,7 @@
 		4EDDE87128C73251009618CB /* Baekjoon1436.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EDDE87028C73251009618CB /* Baekjoon1436.swift */; };
 		4EDDE87428C7392F009618CB /* findPrimeInKsystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EDDE87328C7392F009618CB /* findPrimeInKsystem.swift */; };
 		4EE152BF2930A70B00575775 /* JoyStick.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EE152BE2930A70B00575775 /* JoyStick.swift */; };
+		4EE152C12930D07900575775 /* MakeBiggestNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EE152C02930D07900575775 /* MakeBiggestNum.swift */; };
 		4EEB7BC628B3D95700188D1C /* Baekjoon2739.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEB7BC528B3D95700188D1C /* Baekjoon2739.swift */; };
 		4EEB7BC828B3DA7C00188D1C /* Baekjoon10950.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEB7BC728B3DA7C00188D1C /* Baekjoon10950.swift */; };
 		4EEB7BCA28B3DC2800188D1C /* Baekjoon8393.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEB7BC928B3DC2800188D1C /* Baekjoon8393.swift */; };
@@ -370,6 +371,7 @@
 		4EDDE87028C73251009618CB /* Baekjoon1436.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1436.swift; sourceTree = "<group>"; };
 		4EDDE87328C7392F009618CB /* findPrimeInKsystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = findPrimeInKsystem.swift; sourceTree = "<group>"; };
 		4EE152BE2930A70B00575775 /* JoyStick.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JoyStick.swift; sourceTree = "<group>"; };
+		4EE152C02930D07900575775 /* MakeBiggestNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeBiggestNum.swift; sourceTree = "<group>"; };
 		4EEB7BC528B3D95700188D1C /* Baekjoon2739.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon2739.swift; sourceTree = "<group>"; };
 		4EEB7BC728B3DA7C00188D1C /* Baekjoon10950.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon10950.swift; sourceTree = "<group>"; };
 		4EEB7BC928B3DC2800188D1C /* Baekjoon8393.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon8393.swift; sourceTree = "<group>"; };
@@ -631,6 +633,7 @@
 			isa = PBXGroup;
 			children = (
 				4EE152BE2930A70B00575775 /* JoyStick.swift */,
+				4EE152C02930D07900575775 /* MakeBiggestNum.swift */,
 			);
 			path = Greedy;
 			sourceTree = "<group>";
@@ -1079,6 +1082,7 @@
 				4EC6307928B4C1B50084EB47 /* Baekjoon8958.swift in Sources */,
 				4EC6307328B4BD110084EB47 /* Baekjoon2562.swift in Sources */,
 				4EEB7BDC28B3F87800188D1C /* Baekjoon10951.swift in Sources */,
+				4EE152C12930D07900575775 /* MakeBiggestNum.swift in Sources */,
 				4EC1DB4728D4152300ADC5D5 /* Baekjoon10815.swift in Sources */,
 				4EC2C20D289F9A47007F60C0 /* Baekjoon1941.swift in Sources */,
 				4EB2A69428DAC66D004DE63D /* LottoRating.swift in Sources */,
