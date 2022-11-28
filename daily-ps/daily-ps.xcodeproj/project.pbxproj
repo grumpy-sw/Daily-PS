@@ -147,6 +147,7 @@
 		4ED0BCB028CF094800B8E012 /* Baekjoon25501.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED0BCAF28CF094800B8E012 /* Baekjoon25501.swift */; };
 		4ED0BCB328CF136900B8E012 /* ParkingFeeCalculation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED0BCB228CF136900B8E012 /* ParkingFeeCalculation.swift */; };
 		4ED0E3162889B7AB00D704CD /* Baekjoon9095.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED0E3152889B7AB00D704CD /* Baekjoon9095.swift */; };
+		4ED11158293484C00039EDA7 /* Baekjoon1904.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED11157293484C00039EDA7 /* Baekjoon1904.swift */; };
 		4ED15D0E28D00197006C26ED /* ArcheryCompetition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED15D0D28D00197006C26ED /* ArcheryCompetition.swift */; };
 		4ED15D1028D17BD4006C26ED /* UndestroyedBuilding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED15D0F28D17BD4006C26ED /* UndestroyedBuilding.swift */; };
 		4ED15D5428D36F41006C26ED /* SheepsAndWolves.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED15D5328D36F41006C26ED /* SheepsAndWolves.swift */; };
@@ -348,6 +349,7 @@
 		4ED0BCAF28CF094800B8E012 /* Baekjoon25501.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon25501.swift; sourceTree = "<group>"; };
 		4ED0BCB228CF136900B8E012 /* ParkingFeeCalculation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkingFeeCalculation.swift; sourceTree = "<group>"; };
 		4ED0E3152889B7AB00D704CD /* Baekjoon9095.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon9095.swift; sourceTree = "<group>"; };
+		4ED11157293484C00039EDA7 /* Baekjoon1904.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1904.swift; sourceTree = "<group>"; };
 		4ED15D0D28D00197006C26ED /* ArcheryCompetition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArcheryCompetition.swift; sourceTree = "<group>"; };
 		4ED15D0F28D17BD4006C26ED /* UndestroyedBuilding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UndestroyedBuilding.swift; sourceTree = "<group>"; };
 		4ED15D5328D36F41006C26ED /* SheepsAndWolves.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheepsAndWolves.swift; sourceTree = "<group>"; };
@@ -750,6 +752,7 @@
 			isa = PBXGroup;
 			children = (
 				4ECA007128F53B9E00A02F0B /* Baekjoon24416.swift */,
+				4ED11157293484C00039EDA7 /* Baekjoon1904.swift */,
 			);
 			path = "StepByStep-DynamicProgramming1";
 			sourceTree = "<group>";
@@ -1174,6 +1177,7 @@
 				4EA891A728E58CFE004E6D85 /* NumberStringAndWord.swift in Sources */,
 				4EC1C6B928A4419800E3A955 /* MockExam.swift in Sources */,
 				4ED0BCAE28CF05EC00B8E012 /* Baekjoon18870.swift in Sources */,
+				4ED11158293484C00039EDA7 /* Baekjoon1904.swift in Sources */,
 				4EB4E73928C83E6B00178CAB /* Baekjoon2108.swift in Sources */,
 				4EBD075828C10B5C00EF21ED /* Baekjoon2292.swift in Sources */,
 				4ECF5BBC28D7ECC5003E52F6 /* DisappearingFoothold.swift in Sources */,
