@@ -10,6 +10,7 @@
 		4E0B82812926239700404584 /* NextNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0B82802926239700404584 /* NextNumber.swift */; };
 		4E0B82832926258B00404584 /* LongJump.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0B82822926258B00404584 /* LongJump.swift */; };
 		4E1C080E2935C8DE008B012F /* Baekjoon9491.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1C080D2935C8DE008B012F /* Baekjoon9491.swift */; };
+		4E1C08112935D33F008B012F /* CandidateKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1C08102935D33F008B012F /* CandidateKey.swift */; };
 		4E1CAF2E28E31FDB0017F0EA /* StringCompression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1CAF2D28E31FDB0017F0EA /* StringCompression.swift */; };
 		4E1CAF3128E32C770017F0EA /* Baekjoon1085.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1CAF3028E32C770017F0EA /* Baekjoon1085.swift */; };
 		4E1CAF3328E32DE80017F0EA /* Baekjoon3009.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1CAF3228E32DE80017F0EA /* Baekjoon3009.swift */; };
@@ -214,6 +215,7 @@
 		4E0B82802926239700404584 /* NextNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextNumber.swift; sourceTree = "<group>"; };
 		4E0B82822926258B00404584 /* LongJump.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongJump.swift; sourceTree = "<group>"; };
 		4E1C080D2935C8DE008B012F /* Baekjoon9491.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon9491.swift; sourceTree = "<group>"; };
+		4E1C08102935D33F008B012F /* CandidateKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CandidateKey.swift; sourceTree = "<group>"; };
 		4E1CAF2D28E31FDB0017F0EA /* StringCompression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCompression.swift; sourceTree = "<group>"; };
 		4E1CAF3028E32C770017F0EA /* Baekjoon1085.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1085.swift; sourceTree = "<group>"; };
 		4E1CAF3228E32DE80017F0EA /* Baekjoon3009.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon3009.swift; sourceTree = "<group>"; };
@@ -414,6 +416,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4E1C080F2935D31A008B012F /* 2019-KAKAO-BLIND-RECRUITMENT */ = {
+			isa = PBXGroup;
+			children = (
+				4E1C08102935D33F008B012F /* CandidateKey.swift */,
+			);
+			path = "2019-KAKAO-BLIND-RECRUITMENT";
+			sourceTree = "<group>";
+		};
 		4E1CAF2C28E31EE60017F0EA /* 2020-KAKAO-BLIND-RECRUITMENT */ = {
 			isa = PBXGroup;
 			children = (
@@ -869,6 +879,7 @@
 				4EA891A528E58CD9004E6D85 /* 2021-KAKAO-INTERNSHIP */,
 				4E1CAF2C28E31EE60017F0EA /* 2020-KAKAO-BLIND-RECRUITMENT */,
 				4EACC67228DDA8E500E8A38E /* 2021-KAKAO-BLIND-RECRUITMENT */,
+				4E1C080F2935D31A008B012F /* 2019-KAKAO-BLIND-RECRUITMENT */,
 				4EACC66628DC043500E8A38E /* 2018-KAKAO-BLIND-RECRUITMENT */,
 				4EBF8B8E28D9A91700899EEB /* Practice-Kit */,
 				4ECF5BBD28D8C9BA003E52F6 /* 2022-KAKAO-TECH-INTERNSHIP */,
@@ -1172,6 +1183,7 @@
 				4EEE91092924D3E5004A30FA /* Baekjoon9012.swift in Sources */,
 				4EDDE86B28C71FA1009618CB /* Baekjoon2798.swift in Sources */,
 				4EC793ED28B3AF9200EA0518 /* DevelopingFunction.swift in Sources */,
+				4E1C08112935D33F008B012F /* CandidateKey.swift in Sources */,
 				4EC21E03289050170043B225 /* Baekjoon2564.swift in Sources */,
 				4EB4E73328C837FC00178CAB /* Baekjoon2750.swift in Sources */,
 				4EEB7BD628B3F3E600188D1C /* Baekjoon2439.swift in Sources */,
