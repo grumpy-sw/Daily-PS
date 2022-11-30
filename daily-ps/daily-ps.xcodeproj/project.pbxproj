@@ -189,6 +189,7 @@
 		4EEB7BDC28B3F87800188D1C /* Baekjoon10951.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEB7BDB28B3F87800188D1C /* Baekjoon10951.swift */; };
 		4EEB7BDE28B3F97600188D1C /* Baekjoon1110.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEB7BDD28B3F97600188D1C /* Baekjoon1110.swift */; };
 		4EEE62C929379C2A007FCF10 /* FineSquare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEE62C829379C2A007FCF10 /* FineSquare.swift */; };
+		4EEE62CB2937C1D0007FCF10 /* SortFileName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEE62CA2937C1D0007FCF10 /* SortFileName.swift */; };
 		4EEE91092924D3E5004A30FA /* Baekjoon9012.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEE91082924D3E5004A30FA /* Baekjoon9012.swift */; };
 		4EEFAA2E28FA89C6001494DB /* FindRemainIsOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEFAA2D28FA89C6001494DB /* FindRemainIsOne.swift */; };
 		4EEFAA3028FA8AE0001494DB /* NumberPair.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEFAA2F28FA8AE0001494DB /* NumberPair.swift */; };
@@ -395,6 +396,7 @@
 		4EEB7BDB28B3F87800188D1C /* Baekjoon10951.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon10951.swift; sourceTree = "<group>"; };
 		4EEB7BDD28B3F97600188D1C /* Baekjoon1110.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1110.swift; sourceTree = "<group>"; };
 		4EEE62C829379C2A007FCF10 /* FineSquare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FineSquare.swift; sourceTree = "<group>"; };
+		4EEE62CA2937C1D0007FCF10 /* SortFileName.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortFileName.swift; sourceTree = "<group>"; };
 		4EEE91082924D3E5004A30FA /* Baekjoon9012.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon9012.swift; sourceTree = "<group>"; };
 		4EEFAA2D28FA89C6001494DB /* FindRemainIsOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindRemainIsOne.swift; sourceTree = "<group>"; };
 		4EEFAA2F28FA8AE0001494DB /* NumberPair.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberPair.swift; sourceTree = "<group>"; };
@@ -524,6 +526,7 @@
 				4EA891A328E55D26004E6D85 /* NewsClustering.swift */,
 				4EC7DDD428F68FCE006F15ED /* ThatSong.swift */,
 				4ED1115929348A150039EDA7 /* Compression.swift */,
+				4EEE62CA2937C1D0007FCF10 /* SortFileName.swift */,
 			);
 			path = "2018-KAKAO-BLIND-RECRUITMENT";
 			sourceTree = "<group>";
@@ -1069,6 +1072,7 @@
 				4ED9A9F028981A3B005D0A7E /* Baekjoon10163.swift in Sources */,
 				4EB7B72128A36266008035BC /* HIndex.swift in Sources */,
 				4EC804DD28866C9E00B27A9A /* Permutation.swift in Sources */,
+				4EEE62CB2937C1D0007FCF10 /* SortFileName.swift in Sources */,
 				4EEB7BC628B3D95700188D1C /* Baekjoon2739.swift in Sources */,
 				4EDDE85B28C5B1B5009618CB /* Baekjoon11653.swift in Sources */,
 				4EA4DCDD28BC9A1B008C25CB /* Baekjoon2675.swift in Sources */,
