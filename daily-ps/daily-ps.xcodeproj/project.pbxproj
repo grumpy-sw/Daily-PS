@@ -188,6 +188,7 @@
 		4EEB7BDA28B3F71000188D1C /* Baekjoon10952.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEB7BD928B3F71000188D1C /* Baekjoon10952.swift */; };
 		4EEB7BDC28B3F87800188D1C /* Baekjoon10951.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEB7BDB28B3F87800188D1C /* Baekjoon10951.swift */; };
 		4EEB7BDE28B3F97600188D1C /* Baekjoon1110.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEB7BDD28B3F97600188D1C /* Baekjoon1110.swift */; };
+		4EEE62C929379C2A007FCF10 /* FineSquare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEE62C829379C2A007FCF10 /* FineSquare.swift */; };
 		4EEE91092924D3E5004A30FA /* Baekjoon9012.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEE91082924D3E5004A30FA /* Baekjoon9012.swift */; };
 		4EEFAA2E28FA89C6001494DB /* FindRemainIsOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEFAA2D28FA89C6001494DB /* FindRemainIsOne.swift */; };
 		4EEFAA3028FA8AE0001494DB /* NumberPair.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EEFAA2F28FA8AE0001494DB /* NumberPair.swift */; };
@@ -393,6 +394,7 @@
 		4EEB7BD928B3F71000188D1C /* Baekjoon10952.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon10952.swift; sourceTree = "<group>"; };
 		4EEB7BDB28B3F87800188D1C /* Baekjoon10951.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon10951.swift; sourceTree = "<group>"; };
 		4EEB7BDD28B3F97600188D1C /* Baekjoon1110.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1110.swift; sourceTree = "<group>"; };
+		4EEE62C829379C2A007FCF10 /* FineSquare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FineSquare.swift; sourceTree = "<group>"; };
 		4EEE91082924D3E5004A30FA /* Baekjoon9012.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon9012.swift; sourceTree = "<group>"; };
 		4EEFAA2D28FA89C6001494DB /* FindRemainIsOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindRemainIsOne.swift; sourceTree = "<group>"; };
 		4EEFAA2F28FA8AE0001494DB /* NumberPair.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberPair.swift; sourceTree = "<group>"; };
@@ -472,6 +474,7 @@
 			children = (
 				4E9195402910BADD00AA769A /* Delivery.swift */,
 				4EA50660291A052E00EC758C /* VisitingLength.swift */,
+				4EEE62C829379C2A007FCF10 /* FineSquare.swift */,
 			);
 			path = "Summer-Winter-Coding";
 			sourceTree = "<group>";
@@ -1168,6 +1171,7 @@
 				4EBD075E28C11D7F00EF21ED /* Baekjoon10250.swift in Sources */,
 				4E1CAF2E28E31FDB0017F0EA /* StringCompression.swift in Sources */,
 				4EB924B42928B057008A1E2A /* DiscountEvent.swift in Sources */,
+				4EEE62C929379C2A007FCF10 /* FineSquare.swift in Sources */,
 				4ED1115A29348A150039EDA7 /* Compression.swift in Sources */,
 				4EEFAA2E28FA89C6001494DB /* FindRemainIsOne.swift in Sources */,
 				4EFF0D00288539260093005B /* main.swift in Sources */,
