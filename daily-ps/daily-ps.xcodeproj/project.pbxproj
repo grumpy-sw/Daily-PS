@@ -101,6 +101,7 @@
 		4EC6308028B4D9B70084EB47 /* Baekjoon1065.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6307F28B4D9B70084EB47 /* Baekjoon1065.swift */; };
 		4EC74D5B28D756AF000B045A /* Baekjoon1764.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC74D5A28D756AF000B045A /* Baekjoon1764.swift */; };
 		4EC757202939DD20004AA93B /* MakingDots.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC7571F2939DD20004AA93B /* MakingDots.swift */; };
+		4EC757222939EA0C004AA93B /* NumberGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC757212939EA0C004AA93B /* NumberGame.swift */; };
 		4EC793C328B3848300EA0518 /* Baekjoon10998.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC793C228B3848300EA0518 /* Baekjoon10998.swift */; };
 		4EC793C528B3851A00EA0518 /* Baekjoon1008.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC793C428B3851A00EA0518 /* Baekjoon1008.swift */; };
 		4EC793C728B3858900EA0518 /* Baekjoon10869.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC793C628B3858900EA0518 /* Baekjoon10869.swift */; };
@@ -309,6 +310,7 @@
 		4EC6307F28B4D9B70084EB47 /* Baekjoon1065.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1065.swift; sourceTree = "<group>"; };
 		4EC74D5A28D756AF000B045A /* Baekjoon1764.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1764.swift; sourceTree = "<group>"; };
 		4EC7571F2939DD20004AA93B /* MakingDots.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakingDots.swift; sourceTree = "<group>"; };
+		4EC757212939EA0C004AA93B /* NumberGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberGame.swift; sourceTree = "<group>"; };
 		4EC793C228B3848300EA0518 /* Baekjoon10998.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon10998.swift; sourceTree = "<group>"; };
 		4EC793C428B3851A00EA0518 /* Baekjoon1008.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1008.swift; sourceTree = "<group>"; };
 		4EC793C628B3858900EA0518 /* Baekjoon10869.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon10869.swift; sourceTree = "<group>"; };
@@ -530,6 +532,7 @@
 				4EC7DDD428F68FCE006F15ED /* ThatSong.swift */,
 				4ED1115929348A150039EDA7 /* Compression.swift */,
 				4EEE62CA2937C1D0007FCF10 /* SortFileName.swift */,
+				4EC757212939EA0C004AA93B /* NumberGame.swift */,
 			);
 			path = "2018-KAKAO-BLIND-RECRUITMENT";
 			sourceTree = "<group>";
@@ -1153,6 +1156,7 @@
 				4ECA007228F53B9E00A02F0B /* Baekjoon24416.swift in Sources */,
 				4EB565BA2904147A003CD81F /* ThreeMusketeers.swift in Sources */,
 				4ED0BCA628CEFFD900B8E012 /* Baekjoon11650.swift in Sources */,
+				4EC757222939EA0C004AA93B /* NumberGame.swift in Sources */,
 				4ED0BCAC28CF03E800B8E012 /* Baekjoon10814.swift in Sources */,
 				4EACC66828DC046500E8A38E /* SecretMap.swift in Sources */,
 				4EA4DCD728BC8F8A008C25CB /* Baekjoon11654.swift in Sources */,
