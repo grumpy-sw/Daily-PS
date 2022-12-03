@@ -103,6 +103,7 @@
 		4EC757202939DD20004AA93B /* MakingDots.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC7571F2939DD20004AA93B /* MakingDots.swift */; };
 		4EC757222939EA0C004AA93B /* NumberGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC757212939EA0C004AA93B /* NumberGame.swift */; };
 		4EC75724293B2552004AA93B /* Baekjoon1912.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC75723293B2552004AA93B /* Baekjoon1912.swift */; };
+		4EC75727293B2FD2004AA93B /* ExpectedMatches.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC75726293B2FD2004AA93B /* ExpectedMatches.swift */; };
 		4EC793C328B3848300EA0518 /* Baekjoon10998.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC793C228B3848300EA0518 /* Baekjoon10998.swift */; };
 		4EC793C528B3851A00EA0518 /* Baekjoon1008.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC793C428B3851A00EA0518 /* Baekjoon1008.swift */; };
 		4EC793C728B3858900EA0518 /* Baekjoon10869.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC793C628B3858900EA0518 /* Baekjoon10869.swift */; };
@@ -313,6 +314,7 @@
 		4EC7571F2939DD20004AA93B /* MakingDots.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakingDots.swift; sourceTree = "<group>"; };
 		4EC757212939EA0C004AA93B /* NumberGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberGame.swift; sourceTree = "<group>"; };
 		4EC75723293B2552004AA93B /* Baekjoon1912.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1912.swift; sourceTree = "<group>"; };
+		4EC75726293B2FD2004AA93B /* ExpectedMatches.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpectedMatches.swift; sourceTree = "<group>"; };
 		4EC793C228B3848300EA0518 /* Baekjoon10998.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon10998.swift; sourceTree = "<group>"; };
 		4EC793C428B3851A00EA0518 /* Baekjoon1008.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1008.swift; sourceTree = "<group>"; };
 		4EC793C628B3858900EA0518 /* Baekjoon10869.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon10869.swift; sourceTree = "<group>"; };
@@ -737,6 +739,14 @@
 			path = "StepByStep-Functions";
 			sourceTree = "<group>";
 		};
+		4EC75725293B2FA8004AA93B /* 2017-TIPSTown */ = {
+			isa = PBXGroup;
+			children = (
+				4EC75726293B2FD2004AA93B /* ExpectedMatches.swift */,
+			);
+			path = "2017-TIPSTown";
+			sourceTree = "<group>";
+		};
 		4EC793D728B38C9D00EA0518 /* StepByStep-IOandArithmetics */ = {
 			isa = PBXGroup;
 			children = (
@@ -886,6 +896,7 @@
 		4EFD09A6289A642E00D1E1C0 /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				4EC75725293B2FA8004AA93B /* 2017-TIPSTown */,
 				4E46367D292E4D5400D68A15 /* 2020-KAKAO-INTERNSHIP */,
 				4E91953F2910BACA00AA769A /* Summer-Winter-Coding */,
 				4E91953C2910B73100AA769A /* Level2 */,
@@ -1168,6 +1179,7 @@
 				4EC793D328B38AE200EA0518 /* Baekjoon10172.swift in Sources */,
 				4EA4DCDB28BC92DA008C25CB /* Baekjoon10809.swift in Sources */,
 				4EEB7BDA28B3F71000188D1C /* Baekjoon10952.swift in Sources */,
+				4EC75727293B2FD2004AA93B /* ExpectedMatches.swift in Sources */,
 				4EA4DCE128BCA9FF008C25CB /* Baekjoon2908.swift in Sources */,
 				4EE152BF2930A70B00575775 /* JoyStick.swift in Sources */,
 				4EDDE87428C7392F009618CB /* findPrimeInKsystem.swift in Sources */,
