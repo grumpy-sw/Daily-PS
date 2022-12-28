@@ -214,6 +214,7 @@
 		4EFF0D08288539CF0093005B /* Baekjoon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFF0D07288539CF0093005B /* Baekjoon.swift */; };
 		4EFF0D0A288539E20093005B /* Baekjoon1012.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFF0D09288539E20093005B /* Baekjoon1012.swift */; };
 		4EFFE54F295CA6E800E11D9E /* FrogJmp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFFE54E295CA6E800E11D9E /* FrogJmp.swift */; };
+		4EFFE551295CB15A00E11D9E /* PermMissingElem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFFE550295CB15A00E11D9E /* PermMissingElem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -437,6 +438,7 @@
 		4EFF0D07288539CF0093005B /* Baekjoon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon.swift; sourceTree = "<group>"; };
 		4EFF0D09288539E20093005B /* Baekjoon1012.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1012.swift; sourceTree = "<group>"; };
 		4EFFE54E295CA6E800E11D9E /* FrogJmp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrogJmp.swift; sourceTree = "<group>"; };
+		4EFFE550295CB15A00E11D9E /* PermMissingElem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermMissingElem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -527,6 +529,7 @@
 				4EC2F40C295C591A003BAE43 /* CyclicRotation.swift */,
 				4EC2F40E295C5DC9003BAE43 /* OddOccurencesInArray.swift */,
 				4EFFE54E295CA6E800E11D9E /* FrogJmp.swift */,
+				4EFFE550295CB15A00E11D9E /* PermMissingElem.swift */,
 			);
 			path = Lessons;
 			sourceTree = "<group>";
@@ -1246,6 +1249,7 @@
 				4EEB7BDA28B3F71000188D1C /* Baekjoon10952.swift in Sources */,
 				4EC75727293B2FD2004AA93B /* ExpectedMatches.swift in Sources */,
 				4EA4DCE128BCA9FF008C25CB /* Baekjoon2908.swift in Sources */,
+				4EFFE551295CB15A00E11D9E /* PermMissingElem.swift in Sources */,
 				4EE152BF2930A70B00575775 /* JoyStick.swift in Sources */,
 				4EDDE87428C7392F009618CB /* findPrimeInKsystem.swift in Sources */,
 				4ECA006F28F52CFB00A02F0B /* Tuples.swift in Sources */,
