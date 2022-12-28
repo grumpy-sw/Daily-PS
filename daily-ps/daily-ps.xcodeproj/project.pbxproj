@@ -215,6 +215,7 @@
 		4EFF0D0A288539E20093005B /* Baekjoon1012.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFF0D09288539E20093005B /* Baekjoon1012.swift */; };
 		4EFFE54F295CA6E800E11D9E /* FrogJmp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFFE54E295CA6E800E11D9E /* FrogJmp.swift */; };
 		4EFFE551295CB15A00E11D9E /* PermMissingElem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFFE550295CB15A00E11D9E /* PermMissingElem.swift */; };
+		4EFFE553295CBEC000E11D9E /* TapeEquilibrium.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EFFE552295CBEC000E11D9E /* TapeEquilibrium.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -439,6 +440,7 @@
 		4EFF0D09288539E20093005B /* Baekjoon1012.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1012.swift; sourceTree = "<group>"; };
 		4EFFE54E295CA6E800E11D9E /* FrogJmp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrogJmp.swift; sourceTree = "<group>"; };
 		4EFFE550295CB15A00E11D9E /* PermMissingElem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermMissingElem.swift; sourceTree = "<group>"; };
+		4EFFE552295CBEC000E11D9E /* TapeEquilibrium.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapeEquilibrium.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -530,6 +532,7 @@
 				4EC2F40E295C5DC9003BAE43 /* OddOccurencesInArray.swift */,
 				4EFFE54E295CA6E800E11D9E /* FrogJmp.swift */,
 				4EFFE550295CB15A00E11D9E /* PermMissingElem.swift */,
+				4EFFE552295CBEC000E11D9E /* TapeEquilibrium.swift */,
 			);
 			path = Lessons;
 			sourceTree = "<group>";
@@ -1276,6 +1279,7 @@
 				4EEB7BD028B3F19E00188D1C /* Baekjoon11021.swift in Sources */,
 				4EEFAA3028FA8AE0001494DB /* NumberPair.swift in Sources */,
 				4EBB1E7F289BCC9E009FBDEF /* BiggestNumber.swift in Sources */,
+				4EFFE553295CBEC000E11D9E /* TapeEquilibrium.swift in Sources */,
 				4EC6307B28B4CA260084EB47 /* Baekjoon4344.swift in Sources */,
 				4EB4E73728C83D9100178CAB /* Baekjoon25305.swift in Sources */,
 				4EC804DF28866CA600B27A9A /* Combination.swift in Sources */,
