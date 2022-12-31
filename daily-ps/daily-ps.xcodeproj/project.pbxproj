@@ -43,6 +43,7 @@
 		4EAC6E15295ECA5C0073427D /* TennisTournament.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAC6E14295ECA5C0073427D /* TennisTournament.swift */; };
 		4EAC6E1729600BE90073427D /* ParkingBill.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAC6E1629600BE90073427D /* ParkingBill.swift */; };
 		4EAC6E19296015D60073427D /* FirstUnique.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAC6E18296015D60073427D /* FirstUnique.swift */; };
+		4EAC6E21296028400073427D /* TreeHeight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAC6E20296028400073427D /* TreeHeight.swift */; };
 		4EACC66828DC046500E8A38E /* SecretMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC66728DC046500E8A38E /* SecretMap.swift */; };
 		4EACC66A28DC0D5100E8A38E /* Friends4Block.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC66928DC0D5100E8A38E /* Friends4Block.swift */; };
 		4EACC67428DDA91600E8A38E /* IdRecommandation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC67328DDA91600E8A38E /* IdRecommandation.swift */; };
@@ -271,6 +272,7 @@
 		4EAC6E14295ECA5C0073427D /* TennisTournament.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TennisTournament.swift; sourceTree = "<group>"; };
 		4EAC6E1629600BE90073427D /* ParkingBill.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkingBill.swift; sourceTree = "<group>"; };
 		4EAC6E18296015D60073427D /* FirstUnique.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstUnique.swift; sourceTree = "<group>"; };
+		4EAC6E20296028400073427D /* TreeHeight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeHeight.swift; sourceTree = "<group>"; };
 		4EACC66728DC046500E8A38E /* SecretMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecretMap.swift; sourceTree = "<group>"; };
 		4EACC66928DC0D5100E8A38E /* Friends4Block.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friends4Block.swift; sourceTree = "<group>"; };
 		4EACC67328DDA91600E8A38E /* IdRecommandation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdRecommandation.swift; sourceTree = "<group>"; };
@@ -589,6 +591,7 @@
 				4EAC6E14295ECA5C0073427D /* TennisTournament.swift */,
 				4EAC6E1629600BE90073427D /* ParkingBill.swift */,
 				4EAC6E18296015D60073427D /* FirstUnique.swift */,
+				4EAC6E20296028400073427D /* TreeHeight.swift */,
 			);
 			path = Exercises;
 			sourceTree = "<group>";
@@ -1331,6 +1334,7 @@
 				4EB4E73928C83E6B00178CAB /* Baekjoon2108.swift in Sources */,
 				4EBD075828C10B5C00EF21ED /* Baekjoon2292.swift in Sources */,
 				4ECF5BBC28D7ECC5003E52F6 /* DisappearingFoothold.swift in Sources */,
+				4EAC6E21296028400073427D /* TreeHeight.swift in Sources */,
 				4EEB7BC828B3DA7C00188D1C /* Baekjoon10950.swift in Sources */,
 				4EDDE86628C5E055009618CB /* Baekjoon2447.swift in Sources */,
 				4EC7979328E3EB57000C936E /* Baekjoon4153.swift in Sources */,
