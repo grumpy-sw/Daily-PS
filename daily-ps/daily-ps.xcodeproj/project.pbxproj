@@ -44,6 +44,7 @@
 		4EAC6E1729600BE90073427D /* ParkingBill.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAC6E1629600BE90073427D /* ParkingBill.swift */; };
 		4EAC6E19296015D60073427D /* FirstUnique.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAC6E18296015D60073427D /* FirstUnique.swift */; };
 		4EAC6E1B29601F340073427D /* ArrListLen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAC6E1A29601F340073427D /* ArrListLen.swift */; };
+		4EAC6E1F296028380073427D /* StrSymmetryPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAC6E1E296028380073427D /* StrSymmetryPoint.swift */; };
 		4EAC6E21296028400073427D /* TreeHeight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAC6E20296028400073427D /* TreeHeight.swift */; };
 		4EACC66828DC046500E8A38E /* SecretMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC66728DC046500E8A38E /* SecretMap.swift */; };
 		4EACC66A28DC0D5100E8A38E /* Friends4Block.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC66928DC0D5100E8A38E /* Friends4Block.swift */; };
@@ -274,6 +275,7 @@
 		4EAC6E1629600BE90073427D /* ParkingBill.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkingBill.swift; sourceTree = "<group>"; };
 		4EAC6E18296015D60073427D /* FirstUnique.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstUnique.swift; sourceTree = "<group>"; };
 		4EAC6E1A29601F340073427D /* ArrListLen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrListLen.swift; sourceTree = "<group>"; };
+		4EAC6E1E296028380073427D /* StrSymmetryPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrSymmetryPoint.swift; sourceTree = "<group>"; };
 		4EAC6E20296028400073427D /* TreeHeight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeHeight.swift; sourceTree = "<group>"; };
 		4EACC66728DC046500E8A38E /* SecretMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecretMap.swift; sourceTree = "<group>"; };
 		4EACC66928DC0D5100E8A38E /* Friends4Block.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friends4Block.swift; sourceTree = "<group>"; };
@@ -594,6 +596,7 @@
 				4EAC6E1629600BE90073427D /* ParkingBill.swift */,
 				4EAC6E18296015D60073427D /* FirstUnique.swift */,
 				4EAC6E1A29601F340073427D /* ArrListLen.swift */,
+				4EAC6E1E296028380073427D /* StrSymmetryPoint.swift */,
 				4EAC6E20296028400073427D /* TreeHeight.swift */,
 			);
 			path = Exercises;
@@ -1219,6 +1222,7 @@
 				4EC7DDD528F68FCE006F15ED /* ThatSong.swift in Sources */,
 				4EFF0D0A288539E20093005B /* Baekjoon1012.swift in Sources */,
 				4ED0BCA828CF019900B8E012 /* Baekjoon11651.swift in Sources */,
+				4EAC6E1F296028380073427D /* StrSymmetryPoint.swift in Sources */,
 				4ECC2B5B28885FC000A9377A /* Baekjoon1463.swift in Sources */,
 				4EBD075A28C1104000EF21ED /* Baekjoon1193.swift in Sources */,
 				4EC6307928B4C1B50084EB47 /* Baekjoon8958.swift in Sources */,
