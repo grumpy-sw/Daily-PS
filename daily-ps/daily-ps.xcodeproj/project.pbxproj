@@ -42,6 +42,7 @@
 		4EAC6E0F295D54990073427D /* LongestPassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAC6E0E295D54990073427D /* LongestPassword.swift */; };
 		4EAC6E15295ECA5C0073427D /* TennisTournament.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAC6E14295ECA5C0073427D /* TennisTournament.swift */; };
 		4EAC6E1729600BE90073427D /* ParkingBill.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAC6E1629600BE90073427D /* ParkingBill.swift */; };
+		4EAC6E19296015D60073427D /* FirstUnique.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAC6E18296015D60073427D /* FirstUnique.swift */; };
 		4EACC66828DC046500E8A38E /* SecretMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC66728DC046500E8A38E /* SecretMap.swift */; };
 		4EACC66A28DC0D5100E8A38E /* Friends4Block.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC66928DC0D5100E8A38E /* Friends4Block.swift */; };
 		4EACC67428DDA91600E8A38E /* IdRecommandation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC67328DDA91600E8A38E /* IdRecommandation.swift */; };
@@ -269,6 +270,7 @@
 		4EAC6E0E295D54990073427D /* LongestPassword.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPassword.swift; sourceTree = "<group>"; };
 		4EAC6E14295ECA5C0073427D /* TennisTournament.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TennisTournament.swift; sourceTree = "<group>"; };
 		4EAC6E1629600BE90073427D /* ParkingBill.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkingBill.swift; sourceTree = "<group>"; };
+		4EAC6E18296015D60073427D /* FirstUnique.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstUnique.swift; sourceTree = "<group>"; };
 		4EACC66728DC046500E8A38E /* SecretMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecretMap.swift; sourceTree = "<group>"; };
 		4EACC66928DC0D5100E8A38E /* Friends4Block.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friends4Block.swift; sourceTree = "<group>"; };
 		4EACC67328DDA91600E8A38E /* IdRecommandation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdRecommandation.swift; sourceTree = "<group>"; };
@@ -586,6 +588,7 @@
 				4EAC6E0E295D54990073427D /* LongestPassword.swift */,
 				4EAC6E14295ECA5C0073427D /* TennisTournament.swift */,
 				4EAC6E1629600BE90073427D /* ParkingBill.swift */,
+				4EAC6E18296015D60073427D /* FirstUnique.swift */,
 			);
 			path = Exercises;
 			sourceTree = "<group>";
@@ -1238,6 +1241,7 @@
 				4EACC67428DDA91600E8A38E /* IdRecommandation.swift in Sources */,
 				4ECF5BBF28D8CA3A003E52F6 /* Personality.swift in Sources */,
 				4EC7572B293BBE36004AA93B /* Baekjoon2170.swift in Sources */,
+				4EAC6E19296015D60073427D /* FirstUnique.swift in Sources */,
 				4EC6307528B4BEC10084EB47 /* Baekjoon3052.swift in Sources */,
 				4EB565BE290419EB003CD81F /* ColaProblem.swift in Sources */,
 				4EFD09A8289A647B00D1E1C0 /* BestAlbum.swift in Sources */,
