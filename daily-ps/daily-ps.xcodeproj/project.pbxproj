@@ -39,6 +39,7 @@
 		4EA891AA28E598E5004E6D85 /* Baekjoon15649.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA891A928E598E5004E6D85 /* Baekjoon15649.swift */; };
 		4EA891AC28E5A089004E6D85 /* Baekjoon15650.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA891AB28E5A089004E6D85 /* Baekjoon15650.swift */; };
 		4EA891AE28E5A557004E6D85 /* Baekjoon14889.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA891AD28E5A557004E6D85 /* Baekjoon14889.swift */; };
+		4EAC6E0F295D54990073427D /* LongestPassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAC6E0E295D54990073427D /* LongestPassword.swift */; };
 		4EACC66828DC046500E8A38E /* SecretMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC66728DC046500E8A38E /* SecretMap.swift */; };
 		4EACC66A28DC0D5100E8A38E /* Friends4Block.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC66928DC0D5100E8A38E /* Friends4Block.swift */; };
 		4EACC67428DDA91600E8A38E /* IdRecommandation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC67328DDA91600E8A38E /* IdRecommandation.swift */; };
@@ -263,6 +264,7 @@
 		4EA891A928E598E5004E6D85 /* Baekjoon15649.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon15649.swift; sourceTree = "<group>"; };
 		4EA891AB28E5A089004E6D85 /* Baekjoon15650.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon15650.swift; sourceTree = "<group>"; };
 		4EA891AD28E5A557004E6D85 /* Baekjoon14889.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon14889.swift; sourceTree = "<group>"; };
+		4EAC6E0E295D54990073427D /* LongestPassword.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestPassword.swift; sourceTree = "<group>"; };
 		4EACC66728DC046500E8A38E /* SecretMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecretMap.swift; sourceTree = "<group>"; };
 		4EACC66928DC0D5100E8A38E /* Friends4Block.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friends4Block.swift; sourceTree = "<group>"; };
 		4EACC67328DDA91600E8A38E /* IdRecommandation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdRecommandation.swift; sourceTree = "<group>"; };
@@ -519,6 +521,7 @@
 		4E9DB5CC295ADED200F5A9CE /* Codility */ = {
 			isa = PBXGroup;
 			children = (
+				4EAC6E0D295D54840073427D /* Exercises */,
 				4E9DB5CD295ADEDF00F5A9CE /* Lessons */,
 			);
 			path = Codility;
@@ -571,6 +574,14 @@
 				4EC30E9128E8150B003F6007 /* Baekjoon9663.swift */,
 			);
 			path = "StepByStep-BackTracking";
+			sourceTree = "<group>";
+		};
+		4EAC6E0D295D54840073427D /* Exercises */ = {
+			isa = PBXGroup;
+			children = (
+				4EAC6E0E295D54990073427D /* LongestPassword.swift */,
+			);
+			path = Exercises;
 			sourceTree = "<group>";
 		};
 		4EACC66628DC043500E8A38E /* 2018-KAKAO-BLIND-RECRUITMENT */ = {
@@ -1164,6 +1175,7 @@
 				4EA891AC28E5A089004E6D85 /* Baekjoon15650.swift in Sources */,
 				4EA4DCD428BC3D61008C25CB /* DoublePriorityQueue.swift in Sources */,
 				4EC793CB28B3868F00EA0518 /* Baekjoon18108.swift in Sources */,
+				4EAC6E0F295D54990073427D /* LongestPassword.swift in Sources */,
 				4E447A03288AFCE3001D99A7 /* Baekjoon1182.swift in Sources */,
 				4EC793D128B389F500EA0518 /* Baekjoon10171.swift in Sources */,
 				4EDA1ECC29489913000D40DA /* Baekjoon11659.swift in Sources */,
