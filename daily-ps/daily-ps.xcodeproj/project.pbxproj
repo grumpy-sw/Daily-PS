@@ -44,6 +44,7 @@
 		4EAC6E1729600BE90073427D /* ParkingBill.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAC6E1629600BE90073427D /* ParkingBill.swift */; };
 		4EAC6E19296015D60073427D /* FirstUnique.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAC6E18296015D60073427D /* FirstUnique.swift */; };
 		4EAC6E1B29601F340073427D /* ArrListLen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAC6E1A29601F340073427D /* ArrListLen.swift */; };
+		4EAC6E1D296025C40073427D /* ParityDegree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAC6E1C296025C40073427D /* ParityDegree.swift */; };
 		4EAC6E1F296028380073427D /* StrSymmetryPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAC6E1E296028380073427D /* StrSymmetryPoint.swift */; };
 		4EAC6E21296028400073427D /* TreeHeight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EAC6E20296028400073427D /* TreeHeight.swift */; };
 		4EACC66828DC046500E8A38E /* SecretMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EACC66728DC046500E8A38E /* SecretMap.swift */; };
@@ -275,6 +276,7 @@
 		4EAC6E1629600BE90073427D /* ParkingBill.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkingBill.swift; sourceTree = "<group>"; };
 		4EAC6E18296015D60073427D /* FirstUnique.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstUnique.swift; sourceTree = "<group>"; };
 		4EAC6E1A29601F340073427D /* ArrListLen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrListLen.swift; sourceTree = "<group>"; };
+		4EAC6E1C296025C40073427D /* ParityDegree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParityDegree.swift; sourceTree = "<group>"; };
 		4EAC6E1E296028380073427D /* StrSymmetryPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrSymmetryPoint.swift; sourceTree = "<group>"; };
 		4EAC6E20296028400073427D /* TreeHeight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeHeight.swift; sourceTree = "<group>"; };
 		4EACC66728DC046500E8A38E /* SecretMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecretMap.swift; sourceTree = "<group>"; };
@@ -596,6 +598,7 @@
 				4EAC6E1629600BE90073427D /* ParkingBill.swift */,
 				4EAC6E18296015D60073427D /* FirstUnique.swift */,
 				4EAC6E1A29601F340073427D /* ArrListLen.swift */,
+				4EAC6E1C296025C40073427D /* ParityDegree.swift */,
 				4EAC6E1E296028380073427D /* StrSymmetryPoint.swift */,
 				4EAC6E20296028400073427D /* TreeHeight.swift */,
 			);
@@ -1189,6 +1192,7 @@
 				4EEE62CB2937C1D0007FCF10 /* SortFileName.swift in Sources */,
 				4EEB7BC628B3D95700188D1C /* Baekjoon2739.swift in Sources */,
 				4EDDE85B28C5B1B5009618CB /* Baekjoon11653.swift in Sources */,
+				4EAC6E1D296025C40073427D /* ParityDegree.swift in Sources */,
 				4EA4DCDD28BC9A1B008C25CB /* Baekjoon2675.swift in Sources */,
 				4EA891AC28E5A089004E6D85 /* Baekjoon15650.swift in Sources */,
 				4EA4DCD428BC3D61008C25CB /* DoublePriorityQueue.swift in Sources */,
