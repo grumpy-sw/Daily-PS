@@ -119,6 +119,13 @@
 		4EC6307B28B4CA260084EB47 /* Baekjoon4344.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6307A28B4CA260084EB47 /* Baekjoon4344.swift */; };
 		4EC6307E28B4D5C40084EB47 /* Baekjoon4673.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6307D28B4D5C40084EB47 /* Baekjoon4673.swift */; };
 		4EC6308028B4D9B70084EB47 /* Baekjoon1065.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6307F28B4D9B70084EB47 /* Baekjoon1065.swift */; };
+		4EC6394728DEC5A7008CDC40 /* Problem1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6394628DEC5A7008CDC40 /* Problem1.swift */; };
+		4EC6394928DEC5AF008CDC40 /* Problem2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6394828DEC5AF008CDC40 /* Problem2.swift */; };
+		4EC6394B28DEC5B6008CDC40 /* Problem3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6394A28DEC5B6008CDC40 /* Problem3.swift */; };
+		4EC6394D28DEC5BC008CDC40 /* Problem4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6394C28DEC5BC008CDC40 /* Problem4.swift */; };
+		4EC6394F28DEC5C2008CDC40 /* Problem5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6394E28DEC5C2008CDC40 /* Problem5.swift */; };
+		4EC6395128DEC5CC008CDC40 /* Problem6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6395028DEC5CC008CDC40 /* Problem6.swift */; };
+		4EC6395328DEC5D3008CDC40 /* Problem7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC6395228DEC5D3008CDC40 /* Problem7.swift */; };
 		4EC74D5B28D756AF000B045A /* Baekjoon1764.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC74D5A28D756AF000B045A /* Baekjoon1764.swift */; };
 		4EC757202939DD20004AA93B /* MakingDots.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC7571F2939DD20004AA93B /* MakingDots.swift */; };
 		4EC757222939EA0C004AA93B /* NumberGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC757212939EA0C004AA93B /* NumberGame.swift */; };
@@ -143,6 +150,7 @@
 		4EC793E428B3988600EA0518 /* Baekjoon2525.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC793E328B3988600EA0518 /* Baekjoon2525.swift */; };
 		4EC793E628B39AAE00EA0518 /* Baekjoon2480.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC793E528B39AAE00EA0518 /* Baekjoon2480.swift */; };
 		4EC793E828B3A0BE00EA0518 /* CorrectParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC793E728B3A0BE00EA0518 /* CorrectParentheses.swift */; };
+		4EC793EA28B3AE3800EA0518 /* FillThePuzzle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC793E928B3AE3800EA0518 /* FillThePuzzle.swift */; };
 		4EC793ED28B3AF9200EA0518 /* DevelopingFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC793EC28B3AF9200EA0518 /* DevelopingFunction.swift */; };
 		4EC7979328E3EB57000C936E /* Baekjoon4153.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC7979228E3EB57000C936E /* Baekjoon4153.swift */; };
 		4EC7979528E3ED52000C936E /* Baekjoon2477.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC7979428E3ED52000C936E /* Baekjoon2477.swift */; };
@@ -357,6 +365,13 @@
 		4EC6307A28B4CA260084EB47 /* Baekjoon4344.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon4344.swift; sourceTree = "<group>"; };
 		4EC6307D28B4D5C40084EB47 /* Baekjoon4673.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon4673.swift; sourceTree = "<group>"; };
 		4EC6307F28B4D9B70084EB47 /* Baekjoon1065.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1065.swift; sourceTree = "<group>"; };
+		4EC6394628DEC5A7008CDC40 /* Problem1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Problem1.swift; sourceTree = "<group>"; };
+		4EC6394828DEC5AF008CDC40 /* Problem2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Problem2.swift; sourceTree = "<group>"; };
+		4EC6394A28DEC5B6008CDC40 /* Problem3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Problem3.swift; sourceTree = "<group>"; };
+		4EC6394C28DEC5BC008CDC40 /* Problem4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Problem4.swift; sourceTree = "<group>"; };
+		4EC6394E28DEC5C2008CDC40 /* Problem5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Problem5.swift; sourceTree = "<group>"; };
+		4EC6395028DEC5CC008CDC40 /* Problem6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Problem6.swift; sourceTree = "<group>"; };
+		4EC6395228DEC5D3008CDC40 /* Problem7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Problem7.swift; sourceTree = "<group>"; };
 		4EC74D5A28D756AF000B045A /* Baekjoon1764.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon1764.swift; sourceTree = "<group>"; };
 		4EC7571F2939DD20004AA93B /* MakingDots.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakingDots.swift; sourceTree = "<group>"; };
 		4EC757212939EA0C004AA93B /* NumberGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberGame.swift; sourceTree = "<group>"; };
@@ -381,6 +396,7 @@
 		4EC793E328B3988600EA0518 /* Baekjoon2525.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon2525.swift; sourceTree = "<group>"; };
 		4EC793E528B39AAE00EA0518 /* Baekjoon2480.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon2480.swift; sourceTree = "<group>"; };
 		4EC793E728B3A0BE00EA0518 /* CorrectParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CorrectParentheses.swift; sourceTree = "<group>"; };
+		4EC793E928B3AE3800EA0518 /* FillThePuzzle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FillThePuzzle.swift; sourceTree = "<group>"; };
 		4EC793EC28B3AF9200EA0518 /* DevelopingFunction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevelopingFunction.swift; sourceTree = "<group>"; };
 		4EC7979228E3EB57000C936E /* Baekjoon4153.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon4153.swift; sourceTree = "<group>"; };
 		4EC7979428E3ED52000C936E /* Baekjoon2477.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon2477.swift; sourceTree = "<group>"; };
@@ -836,6 +852,20 @@
 			path = "StepByStep-Functions";
 			sourceTree = "<group>";
 		};
+		4EC6394528DEC582008CDC40 /* 2023-KAKAO */ = {
+			isa = PBXGroup;
+			children = (
+				4EC6394628DEC5A7008CDC40 /* Problem1.swift */,
+				4EC6394828DEC5AF008CDC40 /* Problem2.swift */,
+				4EC6394A28DEC5B6008CDC40 /* Problem3.swift */,
+				4EC6394C28DEC5BC008CDC40 /* Problem4.swift */,
+				4EC6394E28DEC5C2008CDC40 /* Problem5.swift */,
+				4EC6395028DEC5CC008CDC40 /* Problem6.swift */,
+				4EC6395228DEC5D3008CDC40 /* Problem7.swift */,
+			);
+			path = "2023-KAKAO";
+			sourceTree = "<group>";
+		};
 		4EC75725293B2FA8004AA93B /* 2017-TIPSTown */ = {
 			isa = PBXGroup;
 			children = (
@@ -1014,6 +1044,7 @@
 				4ECA006D28F52CE700A02F0B /* 2019-KAKAO-INTERNSHIP */,
 				4EA891A528E58CD9004E6D85 /* 2021-KAKAO-INTERNSHIP */,
 				4E1CAF2C28E31EE60017F0EA /* 2020-KAKAO-BLIND-RECRUITMENT */,
+				4EC6394528DEC582008CDC40 /* 2023-KAKAO */,
 				4EACC67228DDA8E500E8A38E /* 2021-KAKAO-BLIND-RECRUITMENT */,
 				4E1C080F2935D31A008B012F /* 2019-KAKAO-BLIND-RECRUITMENT */,
 				4EACC66628DC043500E8A38E /* 2018-KAKAO-BLIND-RECRUITMENT */,
@@ -1158,6 +1189,7 @@
 				4ED0BCB028CF094800B8E012 /* Baekjoon25501.swift in Sources */,
 				4EC804E128866F3000B27A9A /* Baekjoon2309.swift in Sources */,
 				4EBD076228C12A9E00EF21ED /* Baekjoon2775.swift in Sources */,
+				4EC6394B28DEC5B6008CDC40 /* Problem3.swift in Sources */,
 				4EBD075628C0FD9E00EF21ED /* Baekjoon1712.swift in Sources */,
 				4EC3E9AE289D02B600BA8384 /* TargetNumber.swift in Sources */,
 				4EB2A69828DB002A004DE63D /* MultilevelSales.swift in Sources */,
@@ -1167,6 +1199,7 @@
 				4EC793DA28B38E0800EA0518 /* Baekjoon1330.swift in Sources */,
 				4EDA0D1A28B5EF76001411AA /* TrucksPassingTunnel.swift in Sources */,
 				4EBD075C28C114DF00EF21ED /* Baekjoon10757.swift in Sources */,
+				4EC6394728DEC5A7008CDC40 /* Problem1.swift in Sources */,
 				4ED15D5428D36F41006C26ED /* SheepsAndWolves.swift in Sources */,
 				4EA50661291A052E00EC758C /* VisitingLength.swift in Sources */,
 				4EEB7BDE28B3F97600188D1C /* Baekjoon1110.swift in Sources */,
@@ -1177,6 +1210,7 @@
 				4E1CAF3128E32C770017F0EA /* Baekjoon1085.swift in Sources */,
 				4EA4DCE528BCB6B5008C25CB /* Baekjoon2941.swift in Sources */,
 				4EB2A69628DAE566004DE63D /* MatrixRotation.swift in Sources */,
+				4EC793EA28B3AE3800EA0518 /* FillThePuzzle.swift in Sources */,
 				4E91953E2910B74600AA769A /* NQueen.swift in Sources */,
 				4ED0E3162889B7AB00D704CD /* Baekjoon9095.swift in Sources */,
 				4EDDE86D28C7233E009618CB /* Baekjoon7568.swift in Sources */,
@@ -1204,6 +1238,7 @@
 				4EB565B629041077003CD81F /* CalculateShortfall.swift in Sources */,
 				4E9195412910BADD00AA769A /* Delivery.swift in Sources */,
 				4EC2F40F295C5DC9003BAE43 /* OddOccurencesInArray.swift in Sources */,
+				4EC6394D28DEC5BC008CDC40 /* Problem4.swift in Sources */,
 				4EC1DB4928D41FB600ADC5D5 /* Baekjoon14425.swift in Sources */,
 				4ED9A9F028981A3B005D0A7E /* Baekjoon10163.swift in Sources */,
 				4EB7B72128A36266008035BC /* HIndex.swift in Sources */,
@@ -1225,6 +1260,7 @@
 				4EDDE85D28C5B760009618CB /* Baekjoon1929.swift in Sources */,
 				4ED15D1028D17BD4006C26ED /* UndestroyedBuilding.swift in Sources */,
 				4EAC6E1729600BE90073427D /* ParkingBill.swift in Sources */,
+				4EC6395328DEC5D3008CDC40 /* Problem7.swift in Sources */,
 				4EAEAD2328AA097F00D8A5E2 /* Carpet.swift in Sources */,
 				4EBC9A5628B29F4900ECCE42 /* Baekjoon1037.swift in Sources */,
 				4EDDE85528C5AD90009618CB /* Baekjoon1978.swift in Sources */,
@@ -1247,6 +1283,7 @@
 				4ED0BCA828CF019900B8E012 /* Baekjoon11651.swift in Sources */,
 				4EAC6E1F296028380073427D /* StrSymmetryPoint.swift in Sources */,
 				4ECC2B5B28885FC000A9377A /* Baekjoon1463.swift in Sources */,
+				4EC6394F28DEC5C2008CDC40 /* Problem5.swift in Sources */,
 				4EBD075A28C1104000EF21ED /* Baekjoon1193.swift in Sources */,
 				4EC6307928B4C1B50084EB47 /* Baekjoon8958.swift in Sources */,
 				4EC6307328B4BD110084EB47 /* Baekjoon2562.swift in Sources */,
@@ -1315,6 +1352,7 @@
 				4EFFE551295CB15A00E11D9E /* PermMissingElem.swift in Sources */,
 				4EE152BF2930A70B00575775 /* JoyStick.swift in Sources */,
 				4EDDE87428C7392F009618CB /* findPrimeInKsystem.swift in Sources */,
+				4EC6394928DEC5AF008CDC40 /* Problem2.swift in Sources */,
 				4ECA006F28F52CFB00A02F0B /* Tuples.swift in Sources */,
 				4EFF0D08288539CF0093005B /* Baekjoon.swift in Sources */,
 				4EACC67828DE221700E8A38E /* RankingSearch.swift in Sources */,
@@ -1339,6 +1377,7 @@
 				4EA4DCD928BC90FF008C25CB /* Baekjoon11720.swift in Sources */,
 				4ECF5BC128D8DAF6003E52F6 /* TwoQueue.swift in Sources */,
 				4EEB7BD028B3F19E00188D1C /* Baekjoon11021.swift in Sources */,
+				4EC6395128DEC5CC008CDC40 /* Problem6.swift in Sources */,
 				4EEFAA3028FA8AE0001494DB /* NumberPair.swift in Sources */,
 				4EBB1E7F289BCC9E009FBDEF /* BiggestNumber.swift in Sources */,
 				4EFFE553295CBEC000E11D9E /* TapeEquilibrium.swift in Sources */,

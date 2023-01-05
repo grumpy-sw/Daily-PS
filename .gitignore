@@ -86,3 +86,8 @@ fastlane/test_output
 iOSInjectionProject/
 
 # End of https://www.toptal.com/developers/gitignore/api/swift
+
+*.swift
+daily-ps/*
+daily-ps/daily-ps.xcodeproj/*
+*.pbxproj
