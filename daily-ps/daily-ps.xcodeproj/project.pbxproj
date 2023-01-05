@@ -11,6 +11,7 @@
 		4E0B82832926258B00404584 /* LongJump.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E0B82822926258B00404584 /* LongJump.swift */; };
 		4E17CD9A2966BB1D007F6AAC /* Distinct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E17CD992966BB1D007F6AAC /* Distinct.swift */; };
 		4E17CD9C2966BC1E007F6AAC /* Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E17CD9B2966BC1D007F6AAC /* Triangle.swift */; };
+		4E17CD9E2966C2F8007F6AAC /* MaxProductOfThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E17CD9D2966C2F8007F6AAC /* MaxProductOfThree.swift */; };
 		4E1C080E2935C8DE008B012F /* Baekjoon9491.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1C080D2935C8DE008B012F /* Baekjoon9491.swift */; };
 		4E1C08112935D33F008B012F /* CandidateKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1C08102935D33F008B012F /* CandidateKey.swift */; };
 		4E1CAF2E28E31FDB0017F0EA /* StringCompression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1CAF2D28E31FDB0017F0EA /* StringCompression.swift */; };
@@ -248,6 +249,7 @@
 		4E0B82822926258B00404584 /* LongJump.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongJump.swift; sourceTree = "<group>"; };
 		4E17CD992966BB1D007F6AAC /* Distinct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Distinct.swift; sourceTree = "<group>"; };
 		4E17CD9B2966BC1D007F6AAC /* Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Triangle.swift; sourceTree = "<group>"; };
+		4E17CD9D2966C2F8007F6AAC /* MaxProductOfThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxProductOfThree.swift; sourceTree = "<group>"; };
 		4E1C080D2935C8DE008B012F /* Baekjoon9491.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon9491.swift; sourceTree = "<group>"; };
 		4E1C08102935D33F008B012F /* CandidateKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CandidateKey.swift; sourceTree = "<group>"; };
 		4E1CAF2D28E31FDB0017F0EA /* StringCompression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringCompression.swift; sourceTree = "<group>"; };
@@ -565,6 +567,7 @@
 				4EC3BDB62962C760004762DE /* PassingCars.swift */,
 				4E17CD992966BB1D007F6AAC /* Distinct.swift */,
 				4E17CD9B2966BC1D007F6AAC /* Triangle.swift */,
+				4E17CD9D2966C2F8007F6AAC /* MaxProductOfThree.swift */,
 			);
 			path = Lessons;
 			sourceTree = "<group>";
@@ -1276,6 +1279,7 @@
 				4EC6307528B4BEC10084EB47 /* Baekjoon3052.swift in Sources */,
 				4EB565BE290419EB003CD81F /* ColaProblem.swift in Sources */,
 				4EFD09A8289A647B00D1E1C0 /* BestAlbum.swift in Sources */,
+				4E17CD9E2966C2F8007F6AAC /* MaxProductOfThree.swift in Sources */,
 				4EEB7BCA28B3DC2800188D1C /* Baekjoon8393.swift in Sources */,
 				4EC6307728B4BFE70084EB47 /* Baekjoon1546.swift in Sources */,
 				4EC7979728E3F0CA000C936E /* Baekjoon3053.swift in Sources */,
